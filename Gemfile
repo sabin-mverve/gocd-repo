@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'puma', '3.11.0'
-gem 'rack-cors', '1.0.2'
+gem 'rack-cors', '1.0.5'
 gem 'sequel', '5.25.0'
 gem 'sequel-paranoid', '0.7.0'
 gem 'sequel_secure_password', '0.2.15'
