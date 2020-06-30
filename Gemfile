@@ -20,7 +20,7 @@ gem "pg", '1.1.4'
 gem "mailjet", '1.5.4'
 gem "imgkit", "1.6.2"
 gem 'sparkpost', '0.1.4'
-gem 'rack', '2.0.7'
+gem 'rack', '2.1.4'
 
 group :test, :alltest do
     gem 'test-unit', '3.2.3'
