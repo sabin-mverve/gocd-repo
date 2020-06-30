@@ -1,0 +1,5137 @@
+---
+states_and_cities:
+- :name: Telangana
+  :cities:
+  - :name: Hyderabad
+  - :name: Khammam
+  - :name: Secunderabad
+  - :name: Suryapet
+  - :name: Karimnagar
+  - :name: Nalgonda
+  - :name: Miryalguda
+- :name: Tamil Nadu
+  :cities:
+  - :name: A.Thirumuruganpoondi
+  - :name: A.Vellalapatti
+  - :name: Abiramam
+  - :name: Achampudur
+  - :name: Acharapakkam
+  - :name: Acharipallam
+  - :name: Achipatti
+  - :name: Adikaratti
+  - :name: Adiramapattinam
+  - :name: Aduthurai Alias Maruthuvakudi
+  - :name: Agaram
+  - :name: Agastheeswaram
+  - :name: Alagappapuram
+  - :name: Alampalayam
+  - :name: Alandur
+  - :name: Alanganallur
+  - :name: Alangayam
+  - :name: Alangudi
+  - :name: Alangulam
+  - :name: Alanthurai
+  - :name: Alapakkam
+  - :name: Allapuram
+  - :name: Alur
+  - :name: Alwarkurichi
+  - :name: Alwarthirunagiri
+  - :name: Ambasamudram
+  - :name: Ambattur
+  - :name: Ambur
+  - :name: Ammainaickanur
+  - :name: Ammapettai
+  - :name: Ammavarikuppam
+  - :name: Ammoor
+  - :name: Anaimalai
+  - :name: Anaiyur
+  - :name: Anakaputhur
+  - :name: Ananthapuram
+  - :name: Andipalayam
+  - :name: Andipatti Jakkampatti
+  - :name: Anjugramam
+  - :name: Annamalai Nagar
+  - :name: Annavasal
+  - :name: Annur
+  - :name: Anthiyur
+  - :name: Appakudal
+  - :name: Arachalur
+  - :name: Arakandanallur
+  - :name: Arakonam
+  - :name: Aralvaimozhi
+  - :name: Arani
+  - :name: Aranthangi
+  - :name: Arasiramani
+  - :name: Aravakurichi
+  - :name: Aravankad
+  - :name: Arcot
+  - :name: Arimalam
+  - :name: Ariyalur
+  - :name: Ariyappampalayam
+  - :name: Ariyur
+  - :name: Arumanai
+  - :name: Arumbavur
+  - :name: Arumuganeri
+  - :name: Aruppukkottai
+  - :name: Ashokapuram
+  - :name: Athani
+  - :name: Athanur
+  - :name: Athimarapatti
+  - :name: Athipattu
+  - :name: Athur
+  - :name: Attayampatti
+  - :name: Attur
+  - :name: Avadattur
+  - :name: Avadi
+  - :name: Avalpoondurai
+  - :name: Avanashi
+  - :name: Avaniapuram
+  - :name: Ayakudi
+  - :name: Aygudi
+  - :name: Ayothiapattinam
+  - :name: Ayyalur
+  - :name: Ayyampalayam
+  - :name: Ayyampettai
+  - :name: Azhagiapandiapuram
+  - :name: B. Mallapuram
+  - :name: B. Meenakshipuram
+  - :name: Balakrishnampatti
+  - :name: Balakrishnapuram
+  - :name: Balapallam
+  - :name: Balasamudram
+  - :name: Bargur
+  - :name: Batlagundu
+  - :name: Belur
+  - :name: Bhavani
+  - :name: Bhavanisagar
+  - :name: Bhuvanagiri
+  - :name: Bikketti
+  - :name: Bodinayakkanur
+  - :name: Boothapandi
+  - :name: Boothipuram
+  - :name: Brahmana Periya-Agraharam
+  - :name: Chengalpattu
+  - :name: Chengam
+  - :name: Chennai
+  - :name: Chennasamudram
+  - :name: Chennimalai
+  - :name: Cheranmadevi
+  - :name: Chetpet
+  - :name: Chettiarpatti
+  - :name: Chettipalayam
+  - :name: Chettithangal
+  - :name: Chidambaram
+  - :name: Chinna Anuppanadi
+  - :name: Chinnakkampalayam
+  - :name: Chinnalapatti
+  - :name: Chinnamanur
+  - :name: Chinnampalayam
+  - :name: Chinnasalem
+  - :name: Chinnasekkadu
+  - :name: Chinnavedampatti
+  - :name: Chithode
+  - :name: Chitlapakkam
+  - :name: Cholapuram
+  - :name: Coimbatore
+  - :name: Coonoor
+  - :name: Courtalam
+  - :name: Cuddalore
+  - :name: Dalavaipatti
+  - :name: Denkanikottai
+  - :name: Desur
+  - :name: Devadanapatti
+  - :name: Devakottai
+  - :name: Devanangurichi
+  - :name: Devarshola
+  - :name: Dhalavoipuram
+  - :name: Dhali
+  - :name: Dhaliyur
+  - :name: Dharapadavedu
+  - :name: Dharapuram
+  - :name: Dharasuram
+  - :name: Dharmapuri
+  - :name: Dindigul
+  - :name: Dusi
+  - :name: Edaganasalai
+  - :name: Edaikodu
+  - :name: Edakalinadu
+  - :name: Edappadi
+  - :name: Elathur
+  - :name: Elayirampannai
+  - :name: Elumalai
+  - :name: Eral
+  - :name: Eraniel
+  - :name: Eriodu
+  - :name: Erode
+  - :name: Erumaipatti
+  - :name: Eruvadi
+  - :name: Ethapur
+  - :name: Ettayapuram
+  - :name: Ettimadai
+  - :name: Ezhudesam
+  - :name: Ganapathipuram
+  - :name: Gandhi Nagar(Katpadi Ext.)
+  - :name: Gangaikondan
+  - :name: Gangavalli
+  - :name: Ganguvarpatti
+  - :name: Gingee
+  - :name: Gobichettipalayam
+  - :name: Gopalasamudram
+  - :name: Goundampalayam
+  - :name: Gudalur
+  - :name: Gudiyatham
+  - :name: Gummidipoondi
+  - :name: Hanumanthampatti
+  - :name: Harur
+  - :name: Harveypatti
+  - :name: Highways
+  - :name: Hosur
+  - :name: Hubbathala
+  - :name: Huligal
+  - :name: Idikarai
+  - :name: Ilampillai
+  - :name: Ilanji
+  - :name: Iluppaiyurani
+  - :name: Iluppur
+  - :name: Inam Karur
+  - :name: Injambakkam
+  - :name: Irugur
+  - :name: Jaffrabad
+  - :name: Jagathala
+  - :name: Jalakandapuram
+  - :name: Jalladiampet
+  - :name: Jambai
+  - :name: Jayankondam
+  - :name: Jolarpet
+  - :name: Kadambur
+  - :name: Kadathur
+  - :name: Kadayal
+  - :name: Kadayampatti
+  - :name: Kadayanallur
+  - :name: Kalakkad
+  - :name: Kalambur
+  - :name: Kalapatti
+  - :name: Kalappanaickenpatti
+  - :name: Kalavai
+  - :name: Kalinjur
+  - :name: Kaliyakkavilai
+  - :name: Kalladaikurichi
+  - :name: Kallakkurichi
+  - :name: Kallakudi
+  - :name: Kallukuttam
+  - :name: Kalugumalai
+  - :name: Kamayagoundanpatti
+  - :name: Kambainallur
+  - :name: Kambam
+  - :name: Kamuthi
+  - :name: Kanadukathan
+  - :name: Kanakkampalayam
+  - :name: Kanam
+  - :name: Kancheepuram
+  - :name: Kandanur
+  - :name: Kangayampalayam
+  - :name: Kangeyam
+  - :name: Kangeyanallur
+  - :name: Kaniyur
+  - :name: Kanjikoil
+  - :name: Kannadendal
+  - :name: Kannamangalam
+  - :name: Kannampalayam
+  - :name: Kannankurichi
+  - :name: Kannivadi
+  - :name: Kanniyakumari
+  - :name: Kappiyarai
+  - :name: Karaikkudi
+  - :name: Karamadai
+  - :name: Karambakkam
+  - :name: Karambakkudi
+  - :name: Kariamangalam
+  - :name: Kariapatti
+  - :name: Karugampattur
+  - :name: Karumandi Chellipalayam
+  - :name: Karumathampatti
+  - :name: Karungal
+  - :name: Karunguzhi
+  - :name: Karuppur
+  - :name: Karur
+  - :name: Kasipalayam (E)
+  - :name: Kasipalayam (G)
+  - :name: Kathujuganapalli
+  - :name: Katpadi
+  - :name: Kattivakkam
+  - :name: Kattumannarkoil
+  - :name: Kattuputhur
+  - :name: Kaveripakkam
+  - :name: Kaveripattinam
+  - :name: Kayalpattinam
+  - :name: Kayatharu
+  - :name: Keelakarai
+  - :name: Keeramangalam
+  - :name: Keeranur
+  - :name: Keeripatti
+  - :name: Keezhapavur
+  - :name: Kelamangalam
+  - :name: Kembainaickenpalayam
+  - :name: Kethi
+  - :name: Kilampadi
+  - :name: Kilkulam
+  - :name: Kilkunda
+  - :name: Killiyur
+  - :name: Killlai
+  - :name: Kilpennathur
+  - :name: Kilvelur
+  - :name: Kinathukadavu
+  - :name: Kodaikanal
+  - :name: Kodavasal
+  - :name: Kodumudi
+  - :name: Kolachal
+  - :name: Kolappalur
+  - :name: Kolathupalayam
+  - :name: Kolathur
+  - :name: Kollankodu
+  - :name: Kollankoil
+  - :name: Komaralingam
+  - :name: Kombai
+  - :name: Konavattam
+  - :name: Kondalampatti
+  - :name: Konganapuram
+  - :name: Kooraikundu
+  - :name: Koothappar
+  - :name: Koradacheri
+  - :name: Kotagiri
+  - :name: Kothinallur
+  - :name: Kottaiyur
+  - :name: Kottakuppam
+  - :name: Kottaram
+  - :name: Kottivakkam
+  - :name: Kottur
+  - :name: Kouthanallur
+  - :name: Kovilpatti
+  - :name: Krishnagiri
+  - :name: Krishnarayapuram
+  - :name: Krishnasamudram
+  - :name: Kuchanur
+  - :name: Kuhalur
+  - :name: Kulasekarapuram
+  - :name: Kulithalai
+  - :name: Kumarapalayam
+  - :name: Kumarapuram
+  - :name: Kumbakonam
+  - :name: Kundrathur
+  - :name: Kuniyamuthur
+  - :name: Kunnathur
+  - :name: Kurichi
+  - :name: Kurinjipadi
+  - :name: Kurudampalayam
+  - :name: Kurumbalur
+  - :name: Kuthalam
+  - :name: Kuzhithurai
+  - :name: Labbaikudikadu
+  - :name: Lakkampatti
+  - :name: Lalgudi
+  - :name: Lalpet
+  - :name: Llayangudi
+  - :name: Madambakkam
+  - :name: Madathukulam
+  - :name: Madavaram
+  - :name: Madippakkam
+  - :name: Madukkarai
+  - :name: Madukkur
+  - :name: Madurai
+  - :name: Maduranthakam
+  - :name: Maduravoyal
+  - :name: Mallamooppampatti
+  - :name: Mallankinaru
+  - :name: Mallasamudram
+  - :name: Mallur
+  - :name: Mamallapuram
+  - :name: Mamsapuram
+  - :name: Manachanallur
+  - :name: Manali
+  - :name: Manalmedu
+  - :name: Manalurpet
+  - :name: Manamadurai
+  - :name: Manapakkam
+  - :name: Manapparai
+  - :name: Manavalakurichi
+  - :name: Mandaikadu
+  - :name: Mandapam
+  - :name: Mangadu
+  - :name: Mangalam
+  - :name: Mangalampet
+  - :name: Manimutharu
+  - :name: Mannargudi
+  - :name: Mappilaiurani
+  - :name: Maraimalainagar
+  - :name: Marakkanam
+  - :name: Maramangalathupatti
+  - :name: Marandahalli
+  - :name: Markayankottai
+  - :name: Marudur
+  - :name: Marungur
+  - :name: Mathigiri
+  - :name: Mayiladuthurai
+  - :name: Mecheri
+  - :name: Meenambakkam
+  - :name: Melacheval
+  - :name: Melachokkanathapuram
+  - :name: Melagaram
+  - :name: Melamadai
+  - :name: Melamaiyur
+  - :name: Melathiruppanthuruthi
+  - :name: Melattur
+  - :name: Melpattampakkam
+  - :name: Melur
+  - :name: Melvisharam
+  - :name: Mettupalayam
+  - :name: Mettur
+  - :name: Minjur
+  - :name: Modakurichi
+  - :name: Mohanur
+  - :name: Moolakaraipatti
+  - :name: Moovarasampettai
+  - :name: Mopperipalayam
+  - :name: Mudukulathur
+  - :name: Mukasipidariyur
+  - :name: Mukkudal
+  - :name: Mulagumudu
+  - :name: Mulanur
+  - :name: Muruganpalayam
+  - :name: Musiri
+  - :name: Muthupet
+  - :name: Muthur
+  - :name: Muttayyapuram
+  - :name: Myladi
+  - :name: Naduvattam
+  - :name: Nagapattinam
+  - :name: Nagavakulam
+  - :name: Nagercoil
+  - :name: Nagojanahalli
+  - :name: Nallampatti
+  - :name: Nallur
+  - :name: Namagiripettai
+  - :name: Namakkal
+  - :name: Nambiyur
+  - :name: Nandambakkam
+  - :name: Nandivaram-Guduvancheri
+  - :name: Nangavalli
+  - :name: Nangavaram
+  - :name: Nanguneri
+  - :name: Nanjikottai
+  - :name: Nannilam
+  - :name: Naranammalpuram
+  - :name: Naranapuram
+  - :name: Narasimhanaickenpalayam
+  - :name: Narasingapuram
+  - :name: Naravarikuppam
+  - :name: Nasiyanur
+  - :name: Natham
+  - :name: Nathampannai
+  - :name: Natrampalli
+  - :name: Nattapettai
+  - :name: Nattarasankottai
+  - :name: Navalpattu
+  - :name: Nazerath
+  - :name: Needamangalam
+  - :name: Neelagiri
+  - :name: Neelankarai
+  - :name: Neikkarapatti
+  - :name: Neiyyur
+  - :name: Nellikuppam
+  - :name: Nelliyalam
+  - :name: Nemili
+  - :name: Neripperichal
+  - :name: Nerkunram
+  - :name: Nerkuppai
+  - :name: Nerunjipettai
+  - :name: Neykkarappatti
+  - :name: Neyveli
+  - :name: Nilakkottai
+  - :name: O' Valley
+  - :name: Odaipatti
+  - :name: Odaiyakulam
+  - :name: Oddanchatram
+  - :name: Odugathur
+  - :name: Oggiyamduraipakkam
+  - :name: Olagadam
+  - :name: Omalur
+  - :name: Orathanadu (Mukthambalpuram)
+  - :name: Othakadai
+  - :name: Othakalmandapam
+  - :name: Ottapparai
+  - :name: P. J. Cholapuram
+  - :name: P.Mettupalayam
+  - :name: P.N.Patti
+  - :name: Pacode
+  - :name: Padaiveedu
+  - :name: Padianallur
+  - :name: Padirikuppam
+  - :name: Padmanabhapuram
+  - :name: Palaganangudy
+  - :name: Palakkodu
+  - :name: Palamedu
+  - :name: Palani
+  - :name: Palani Chettipatti
+  - :name: Palavakkam
+  - :name: Palavansathu
+  - :name: Palayam
+  - :name: Palladam
+  - :name: Pallapalayam
+  - :name: Pallapatti
+  - :name: Pallathur
+  - :name: Pallavaram
+  - :name: Pallikaranai
+  - :name: Pallikonda
+  - :name: Pallipalayam
+  - :name: Pallipalayam Agraharam
+  - :name: Pallipattu
+  - :name: Pammal
+  - :name: Panagudi
+  - :name: Panaimarathupatti
+  - :name: Panapakkam
+  - :name: Panboli
+  - :name: Pandamangalam
+  - :name: Pannaikadu
+  - :name: Pannaipuram
+  - :name: Panruti
+  - :name: Papanasam
+  - :name: Pappankurichi
+  - :name: Papparapatti
+  - :name: Pappireddipatti
+  - :name: Paramakudi
+  - :name: Paramathi
+  - :name: Parangipettai
+  - :name: Paravai
+  - :name: Pasur
+  - :name: Pathamadai
+  - :name: Pattinam
+  - :name: Pattiveeranpatti
+  - :name: Pattukkottai
+  - :name: Pazhugal
+  - :name: Peerkankaranai
+  - :name: Pennadam
+  - :name: Pennagaram
+  - :name: Pennathur
+  - :name: Peraiyur
+  - :name: Peralam
+  - :name: Perambalur
+  - :name: Peranamallur
+  - :name: Peravurani
+  - :name: Periya Negamam
+  - :name: Periyakodiveri
+  - :name: Periyakulam
+  - :name: Periyanaickenpalayam
+  - :name: Periyapatti
+  - :name: Periyasemur
+  - :name: Pernampattu
+  - :name: Perumagalur
+  - :name: Perumandi
+  - :name: Perumuchi
+  - :name: Perundurai
+  - :name: Perungalathur
+  - :name: Perungudi
+  - :name: Perungulam
+  - :name: Perur
+  - :name: Pethampalayam
+  - :name: Pethanaickenpalayam
+  - :name: Pillanallur
+  - :name: Polichalur
+  - :name: Pollachi
+  - :name: Polur
+  - :name: Ponmani
+  - :name: Ponnamaravathi
+  - :name: Ponnampatti
+  - :name: Ponneri
+  - :name: Poolambadi
+  - :name: Poolampatti
+  - :name: Pooluvapatti
+  - :name: Poonamallee
+  - :name: Porur
+  - :name: Pothanur
+  - :name: Pothatturpettai
+  - :name: Pudukadai
+  - :name: Pudukkottai
+  - :name: Pudupalaiyam Aghraharam
+  - :name: Pudupalayam
+  - :name: Pudupatti
+  - :name: Pudupattinam
+  - :name: Pudur (S)
+  - :name: Puduvayal
+  - :name: Puliyankudi
+  - :name: Puliyur
+  - :name: Pullampadi
+  - :name: Punjai Thottakurichi
+  - :name: Punjaipugalur
+  - :name: Punjaipuliampatti
+  - :name: Puthalam
+  - :name: Puvalur
+  - :name: Puzhal
+  - :name: Puzhithivakkam (Ullagaram)
+  - :name: R.Pudupatti
+  - :name: R.S.Mangalam
+  - :name: Rajapalayam
+  - :name: Ramanathapuram
+  - :name: Ramapuram
+  - :name: Rameswaram
+  - :name: Ranipettai
+  - :name: Rasipuram
+  - :name: Rayagiri
+  - :name: Reethapuram
+  - :name: Rosalpatti
+  - :name: Rudravathi
+  - :name: S. Kannanur
+  - :name: S.Kodikulam
+  - :name: S.Nallur
+  - :name: Salangapalayam
+  - :name: Salem
+  - :name: Samalapuram
+  - :name: Samathur
+  - :name: Sambavar Vadagarai
+  - :name: Sankaramanallur
+  - :name: Sankarankoil
+  - :name: Sankarapuram
+  - :name: Sankari
+  - :name: Sankarnagar
+  - :name: Saravanampatti
+  - :name: Sarcarsamakulam
+  - :name: Sathankulam
+  - :name: Sathiyavijayanagaram
+  - :name: Sathuvachari
+  - :name: Sathyamangalam
+  - :name: Sattur
+  - :name: Sayalgudi
+  - :name: Sayapuram
+  - :name: Seerapalli
+  - :name: Seevur
+  - :name: Seithur
+  - :name: Sembakkam
+  - :name: Semmipalayam
+  - :name: Senthamangalam
+  - :name: Sentharapatti
+  - :name: Senur
+  - :name: Sethiathoppu
+  - :name: Sevilimedu
+  - :name: Sevugampatti
+  - :name: Shenbakkam
+  - :name: Shenkottai
+  - :name: Sholavandan
+  - :name: Sholinganallur
+  - :name: Sholingur
+  - :name: Sholur
+  - :name: Sikkarayapuram
+  - :name: Singampuneri
+  - :name: Singaperumalkoil
+  - :name: Sirkali
+  - :name: Sirugamani
+  - :name: Sirumugai
+  - :name: Sithayankottai
+  - :name: Sithurajapuram
+  - :name: Sivaganga
+  - :name: Sivagiri
+  - :name: Sivakasi
+  - :name: Sivanthipuram
+  - :name: Srimushnam
+  - :name: Sriperumbudur
+  - :name: Sriramapuram
+  - :name: Srivaikuntam
+  - :name: Srivilliputhur
+  - :name: St.Thomas Mount-Cum-Pallavaram
+  - :name: Suchindram
+  - :name: Suleeswaranpatti
+  - :name: Sulur
+  - :name: Sundarapandiam
+  - :name: Sundarapandiapuram
+  - :name: Surampatti
+  - :name: Surandai
+  - :name: Suriyampalayam
+  - :name: Swamimalai
+  - :name: T.Kallupatti
+  - :name: Tambaram
+  - :name: Tayilupatti
+  - :name: Tenkasi
+  - :name: Thadikombu
+  - :name: Thakkolam
+  - :name: Thalainayar
+  - :name: Thalakudi
+  - :name: Thamaraikulam
+  - :name: Thammampatti
+  - :name: Thanjavur
+  - :name: Thanthoni
+  - :name: Tharamangalam
+  - :name: Tharangambadi
+  - :name: Thathaiyangarpet
+  - :name: Thedavur
+  - :name: Thenambakkam
+  - :name: Thengampudur
+  - :name: Theni Allinagaram
+  - :name: Thenkarai
+  - :name: Thenthamaraikulam
+  - :name: Thenthiruperai
+  - :name: Thesur
+  - :name: Thevaram
+  - :name: Thevur
+  - :name: Thiagadurgam
+  - :name: Thingalnagar
+  - :name: Thirukarungudi
+  - :name: Thirukattupalli
+  - :name: Thirumalayampalayam
+  - :name: Thirumangalam
+  - :name: Thirumazhisai
+  - :name: Thirunagar
+  - :name: Thirunageswaram
+  - :name: Thiruneermalai
+  - :name: Thirunindravur
+  - :name: Thiruparankundram
+  - :name: Thiruparappu
+  - :name: Thiruporur
+  - :name: Thiruppanandal
+  - :name: Thirupuvanam
+  - :name: Thiruthangal
+  - :name: Thiruthuraipoondi
+  - :name: Thiruvaiyaru
+  - :name: Thiruvalam
+  - :name: Thiruvallur
+  - :name: Thiruvarur
+  - :name: Thiruvattaru
+  - :name: Thiruvenkatam
+  - :name: Thiruvennainallur
+  - :name: Thiruverumbur
+  - :name: Thiruvidaimarudur
+  - :name: Thiruvithankodu
+  - :name: Thisayanvilai
+  - :name: Thittacheri
+  - :name: Thondamuthur
+  - :name: Thondi
+  - :name: Thoothukkudi
+  - :name: Thorapadi
+  - :name: Thottipalayam
+  - :name: Thottiyam
+  - :name: Thudiyalur
+  - :name: Thuraiyur
+  - :name: Thuthipattu
+  - :name: Thuvakudi
+  - :name: Timiri
+  - :name: Tindivanam
+  - :name: Tiruchendur
+  - :name: Tiruchengode
+  - :name: Tiruchirappalli
+  - :name: Tirukalukundram
+  - :name: Tirukkoyilur
+  - :name: Tirunelveli
+  - :name: Tirupathur
+  - :name: Tiruppur
+  - :name: Tirusulam
+  - :name: Tiruttani
+  - :name: Tiruvannamalai
+  - :name: Tiruverkadu
+  - :name: Tiruvethipuram
+  - :name: Tiruvottiyur
+  - :name: Tittakudi
+  - :name: Tnpl Pugalur
+  - :name: Udangudi
+  - :name: Udayarpalayam
+  - :name: Udhagamandalam
+  - :name: Udumalaipettai
+  - :name: Ullur
+  - :name: Ulundurpettai
+  - :name: Unjalaur
+  - :name: Unnamalaikadai
+  - :name: Uppidamangalam
+  - :name: Uppiliapuram
+  - :name: Urapakkam
+  - :name: Usilampatti
+  - :name: Uthamapalayam
+  - :name: Uthangarai
+  - :name: Uthayendram
+  - :name: Uthiramerur
+  - :name: Uthukkottai
+  - :name: Uthukuli
+  - :name: V. Pudur
+  - :name: Vadakarai Keezhpadugai
+  - :name: Vadakkanandal
+  - :name: Vadakkuvalliyur
+  - :name: Vadalur
+  - :name: Vadamadurai
+  - :name: Vadavalli
+  - :name: Vadipatti
+  - :name: Vadugapatti
+  - :name: Vaitheeswarankoil
+  - :name: Valangaiman
+  - :name: Valasaravakkam
+  - :name: Valavanur
+  - :name: Vallam
+  - :name: Valparai
+  - :name: Valvaithankoshtam
+  - :name: Vanavasi
+  - :name: Vandalur
+  - :name: Vandavasi
+  - :name: Vandiyur
+  - :name: Vaniputhur
+  - :name: Vaniyambadi
+  - :name: Varadarajanpettai
+  - :name: Vasudevanallur
+  - :name: Vathirairuppu
+  - :name: Vazhapadi
+  - :name: Vedapatti
+  - :name: Vedaranyam
+  - :name: Vedasandur
+  - :name: Veeraganur
+  - :name: Veerakeralam
+  - :name: Veerakkalpudur
+  - :name: Veerapandi
+  - :name: Veerappanchatram
+  - :name: Veeravanallur
+  - :name: Velampalayam
+  - :name: Velankanni
+  - :name: Vellakinar
+  - :name: Vellakoil
+  - :name: Vellalur
+  - :name: Vellimalai
+  - :name: Vellore
+  - :name: Vellottamparappu
+  - :name: Velur
+  - :name: Vengampudur
+  - :name: Vengathur
+  - :name: Venkarai
+  - :name: Vennanthur
+  - :name: Veppathur
+  - :name: Verkilambi
+  - :name: Vettaikaranpudur
+  - :name: Vettavalam
+  - :name: Vijayapuri
+  - :name: Vikramasingapuram
+  - :name: Vikravandi
+  - :name: Vilangudi
+  - :name: Vilankurichi
+  - :name: Vilapakkam
+  - :name: Vilathikulam
+  - :name: Vilavur
+  - :name: Villukuri
+  - :name: Viluppuram
+  - :name: Virudhachalam
+  - :name: Virudhunagar
+  - :name: Virupakshipuram
+  - :name: Viswanatham
+  - :name: Walajabad
+  - :name: Walajapet
+  - :name: Wellington
+  - :name: Zamin Uthukuli
+- :name: Gujarat
+  :cities:
+  - :name: Aadityana
+  - :name: Aambaliyasan
+  - :name: Aantaliya
+  - :name: Aarambhada
+  - :name: Abrama
+  - :name: Adalaj
+  - :name: Ahmedabad
+  - :name: Ahmedabad Cantonment
+  - :name: Alang
+  - :name: Ambaji
+  - :name: Amreli
+  - :name: Anand
+  - :name: Andada
+  - :name: Anjar
+  - :name: Anklav
+  - :name: Anklesvar
+  - :name: Anklesvar Ina
+  - :name: Atul
+  - :name: Bagasara
+  - :name: Bajva
+  - :name: Balasinor
+  - :name: Bantwa
+  - :name: Bardoli
+  - :name: Bavla
+  - :name: Bedi
+  - :name: Bhachau
+  - :name: Bhanvad
+  - :name: Bharuch
+  - :name: Bharuch Ina
+  - :name: Bhavnagar
+  - :name: Bhayavadar
+  - :name: Bhuj
+  - :name: Bilimora
+  - :name: Bodeli
+  - :name: Bopal
+  - :name: Boriavi
+  - :name: Borsad
+  - :name: Botad
+  - :name: Chaklasi
+  - :name: Chala
+  - :name: Chalala
+  - :name: Chalthan
+  - :name: Chanasma
+  - :name: Chandkheda
+  - :name: Chandlodiya
+  - :name: Chanod
+  - :name: Chhaprabhatha
+  - :name: Chhatral Ina
+  - :name: Chhaya
+  - :name: Chhota Udaipur
+  - :name: Chikhli
+  - :name: Chiloda(Naroda)
+  - :name: Chorvad
+  - :name: Dabhoi
+  - :name: Dahegam
+  - :name: Dakor
+  - :name: Damnagar
+  - :name: Deesa
+  - :name: Devgadbaria
+  - :name: Devsar
+  - :name: Dhandhuka
+  - :name: Dhanera
+  - :name: Dharampur
+  - :name: Dhola
+  - :name: Dholka
+  - :name: Dhoraji
+  - :name: Dhrangadhra
+  - :name: Dhrol
+  - :name: Digvijaygram
+  - :name: Dohad
+  - :name: Dungra
+  - :name: Dwarka
+  - :name: Freelandgunj
+  - :name: Gadhada
+  - :name: Gandevi
+  - :name: Gandhidham
+  - :name: Gandhinagar
+  - :name: Gariadhar
+  - :name: Ghatlodiya
+  - :name: Ghogha
+  - :name: Godhra
+  - :name: Gondal
+  - :name: Gota
+  - :name: Gsfc Complex Ina
+  - :name: Hajira Ina
+  - :name: Halol
+  - :name: Halvad
+  - :name: Harij
+  - :name: Himatnagar
+  - :name: Ichchhapor
+  - :name: Idar
+  - :name: Jafrabad
+  - :name: Jalalpore
+  - :name: Jam Jodhpur
+  - :name: Jambusar
+  - :name: Jamnagar
+  - :name: Jasdan
+  - :name: Jawaharnagar (Gujarat Refinery)
+  - :name: Jetpur Navagadh
+  - :name: Jodhpur
+  - :name: Joshipura
+  - :name: Junagadh
+  - :name: Kadi
+  - :name: Kadodara
+  - :name: Kalavad
+  - :name: Kali
+  - :name: Kalol
+  - :name: Kalol Ina
+  - :name: Kandla
+  - :name: Kanodar
+  - :name: Kapadvanj
+  - :name: Karachiya
+  - :name: Karamsad
+  - :name: Karjan
+  - :name: Katpar
+  - :name: Keshod
+  - :name: Kevadiya
+  - :name: Khambhalia
+  - :name: Khambhat
+  - :name: Kharaghoda
+  - :name: Kheda
+  - :name: Khedbrahma
+  - :name: Kheralu
+  - :name: Kodinar
+  - :name: Kosamba
+  - :name: Kutiyana
+  - :name: Lambha
+  - :name: Lathi
+  - :name: Limbdi
+  - :name: Limla
+  - :name: Lunawada
+  - :name: Mahemdavad
+  - :name: Mahesana
+  - :name: Mahudha
+  - :name: Mahuva
+  - :name: Mahuvar
+  - :name: Makarba
+  - :name: Maktampur
+  - :name: Malpur
+  - :name: Manavadar
+  - :name: Mandvi
+  - :name: Mangrol
+  - :name: Mansa
+  - :name: Meghraj
+  - :name: Memnagar
+  - :name: Mithapur
+  - :name: Modasa
+  - :name: Mogravadi
+  - :name: Morvi
+  - :name: Motera
+  - :name: Mundra
+  - :name: Nadiad
+  - :name: Nanakvada
+  - :name: Nandej
+  - :name: Nandesari
+  - :name: Nandesari Ina
+  - :name: Navagamghed
+  - :name: Navsari
+  - :name: Ode
+  - :name: Okha Port
+  - :name: Paddhari
+  - :name: Padra
+  - :name: Palanpur
+  - :name: Palej
+  - :name: Palitana
+  - :name: Pardi
+  - :name: Parnera
+  - :name: Parvat
+  - :name: Patan
+  - :name: Petlad
+  - :name: Petro Chemical Complex Ina
+  - :name: Porbandar
+  - :name: Prantij
+  - :name: Radhanpur
+  - :name: Rajkot
+  - :name: Rajpipla
+  - :name: Rajula
+  - :name: Ramol
+  - :name: Ranavav
+  - :name: Ranip
+  - :name: Ranoli
+  - :name: Rapar
+  - :name: Sachin
+  - :name: Sachin Ina
+  - :name: Salaya
+  - :name: Sanand
+  - :name: Santrampur
+  - :name: Sarigam Ina
+  - :name: Sarkhej-Okaf
+  - :name: Savarkundla
+  - :name: Sayan
+  - :name: Sidhpur
+  - :name: Sihor
+  - :name: Sikka
+  - :name: Singarva
+  - :name: Songadh
+  - :name: Surajkaradi
+  - :name: Surat
+  - :name: Surendranagar Dudhrej
+  - :name: Talaja
+  - :name: Talod
+  - :name: Tarsali
+  - :name: Thaltej
+  - :name: Thangadh
+  - :name: Tharad
+  - :name: Ukai
+  - :name: Umbergaon
+  - :name: Umbergaon Ina
+  - :name: Umreth
+  - :name: Un
+  - :name: Una
+  - :name: Unjha
+  - :name: Upleta
+  - :name: Utran
+  - :name: Vadia
+  - :name: Vadnagar
+  - :name: Vadodara
+  - :name: Vaghodia Ina
+  - :name: Vallabh Vidhyanagar
+  - :name: Valsad
+  - :name: Valsad Ina
+  - :name: Vanthali
+  - :name: Vapi
+  - :name: Vapi Ina
+  - :name: Vartej
+  - :name: Vasna Borsad Ina
+  - :name: Vastral
+  - :name: Vastrapur
+  - :name: Vejalpur
+  - :name: Veraval
+  - :name: Vijalpor
+  - :name: Vijapur
+  - :name: Viramgam
+  - :name: Visavadar
+  - :name: Visnagar
+  - :name: Vitthal Udyognagar Ina
+  - :name: Vyara
+  - :name: Wadhwan
+  - :name: Wankaner
+  - :name: Zalod
+- :name: Assam
+  :cities:
+  - :name: Abhayapuri
+  - :name: Ambikapur Part-X
+  - :name: Amguri
+  - :name: Anand Nagar
+  - :name: Badarpur
+  - :name: Badarpur Rly Town
+  - :name: Bahbari Gaon
+  - :name: Bamun Sualkuchi
+  - :name: Barbari (Amc Area)
+  - :name: Barpathar
+  - :name: Barpeta
+  - :name: Barpeta Road
+  - :name: Basugaon
+  - :name: Bihpuria
+  - :name: Bijni
+  - :name: Bilasipara
+  - :name: Biswanath Chariali
+  - :name: Bohari
+  - :name: Bokajan
+  - :name: Bokakhat
+  - :name: Bongaigaon
+  - :name: Bongaigaon, Refinery & Petro-Chemical Ltd. Township
+  - :name: Borgolai Grant No.11
+  - :name: Chabua
+  - :name: Chandrapur Bagicha
+  - :name: Chapar
+  - :name: Chekonidhara
+  - :name: Choto Haibor
+  - :name: Dergaon
+  - :name: Dharapur
+  - :name: Dhekiajuli
+  - :name: Dhemaji
+  - :name: Dhing
+  - :name: Dhubri
+  - :name: Dibrugarh
+  - :name: Digboi
+  - :name: Digboi Oil Town
+  - :name: Dimaruguri
+  - :name: Diphu
+  - :name: Doboka
+  - :name: Dokmoka
+  - :name: Donkamokam
+  - :name: Doom Dooma
+  - :name: Duliajan No.1
+  - :name: Duliajan Oil Town
+  - :name: Durga Nagar Part-V
+  - :name: Gauripur
+  - :name: Goalpara
+  - :name: Gohpur
+  - :name: Golaghat
+  - :name: Golokganj
+  - :name: Gossaigaon
+  - :name: Guwahati
+  - :name: Haflong
+  - :name: Hailakandi
+  - :name: Hamren
+  - :name: Hindustan Paper Corporation Ltd. Township Area Panchgram
+  - :name: Hojai
+  - :name: Howli
+  - :name: Howraghat
+  - :name: Jagiroad
+  - :name: Jonai Bazar
+  - :name: Jorhat
+  - :name: Kampur Town
+  - :name: Kanakpur Part-Ii
+  - :name: Karimganj
+  - :name: Kharijapikon
+  - :name: Kharupatia
+  - :name: Kochpara
+  - :name: Kokrajhar
+  - :name: Kumar Kaibarta Gaon
+  - :name: Lakhipur
+  - :name: Lala
+  - :name: Lanka
+  - :name: Lido Tikok
+  - :name: Lido Town
+  - :name: Lumding
+  - :name: Lumding Rly Colony
+  - :name: Mahur
+  - :name: Maibong
+  - :name: Majgaon
+  - :name: Makum
+  - :name: Mangaldoi
+  - :name: Mankachar
+  - :name: Margherita
+  - :name: Mariani
+  - :name: Marigaon
+  - :name: Moran Town
+  - :name: Moranhat
+  - :name: Nagaon
+  - :name: Naharkatiya
+  - :name: Nalbari
+  - :name: Namrup
+  - :name: Naubaisa Gaon
+  - :name: Nazira
+  - :name: New Bongaigaon Rly. Colony
+  - :name: North Guwahati
+  - :name: North Lakhimpur
+  - :name: Numaligarh Refinery Township
+  - :name: Palasbari
+  - :name: Pathsala
+  - :name: Rangapara
+  - :name: Rangia
+  - :name: Salakati
+  - :name: Sapatgram
+  - :name: Sarbhog
+  - :name: Sarthebari
+  - :name: Sarupathar
+  - :name: Sarupathar Bengali
+  - :name: Senchoa Gaon
+  - :name: Sibsagar
+  - :name: Silapathar
+  - :name: Silchar
+  - :name: Silchar Part-X
+  - :name: Sonari
+  - :name: Sualkuchi
+  - :name: Tangla
+  - :name: Tezpur
+  - :name: Tihu
+  - :name: Tinsukia
+  - :name: Titabor Town
+  - :name: Udalguri
+  - :name: Umrangso
+  - :name: Uttar Krishnapur Part-I
+- :name: Punjab
+  :cities:
+  - :name: Abohar
+  - :name: Adampur
+  - :name: Ahmedgarh
+  - :name: Ajnala
+  - :name: Akalgarh
+  - :name: Alawalpur
+  - :name: Amloh
+  - :name: Amritsar
+  - :name: Amritsar Cantt.
+  - :name: Anandpur Sahib
+  - :name: Badhni Kalan
+  - :name: Bagha Purana
+  - :name: Balachaur
+  - :name: Banaur
+  - :name: Banga
+  - :name: Baretta
+  - :name: Bariwala
+  - :name: Barnala
+  - :name: Bassi Pathana
+  - :name: Batala
+  - :name: Bathinda
+  - :name: Begowal
+  - :name: Bhabat
+  - :name: Bhadaur
+  - :name: Bhankharpur
+  - :name: Bharoli Kalan
+  - :name: Bhawanigarh
+  - :name: Bhikhi
+  - :name: Bhikhiwind
+  - :name: Bhisiana
+  - :name: Bhogpur
+  - :name: Bhucho Mandi
+  - :name: Bhulath
+  - :name: Budha Theh
+  - :name: Budhlada
+  - :name: Cheema
+  - :name: Chohal
+  - :name: Daroha
+  - :name: Dasua
+  - :name: Daulatpur
+  - :name: Dera Baba Nanak
+  - :name: Dera Bassi
+  - :name: Dhanaula
+  - :name: Dharamkot
+  - :name: Dhariwal
+  - :name: Dhilwan
+  - :name: Dhuri
+  - :name: Dina Nagar
+  - :name: Dirba
+  - :name: Faridkot
+  - :name: Fatehgarh Churian
+  - :name: Fazilka
+  - :name: Fiozpur
+  - :name: Firozpur Cantt.
+  - :name: Gardhiwala
+  - :name: Garhshanker
+  - :name: Ghagga
+  - :name: Ghanaur
+  - :name: Gidderbaha
+  - :name: Gobindgarh
+  - :name: Goniana
+  - :name: Goraya
+  - :name: Gurdaspur
+  - :name: Guru Har Sahai
+  - :name: Hajipur
+  - :name: Handiaya
+  - :name: Hariana
+  - :name: Hoshiarpur
+  - :name: Hussainpur
+  - :name: Jagraon
+  - :name: Jaitu
+  - :name: Jalalabad
+  - :name: Jalandhar
+  - :name: Jalandhar Cantt.
+  - :name: Jandiala
+  - :name: Jugial
+  - :name: Kalanaur
+  - :name: Kapurthala
+  - :name: Karoran
+  - :name: Kartarpur
+  - :name: Khamanon
+  - :name: Khanauri
+  - :name: Khanna
+  - :name: Kharar
+  - :name: Khem Karan
+  - :name: Kot Fatta
+  - :name: Kot Kapura
+  - :name: Kurali
+  - :name: Lehragaga
+  - :name: Lodhian Khas
+  - :name: Longowal
+  - :name: Ludhiana
+  - :name: Machhiwara
+  - :name: Mahilpur
+  - :name: Majitha
+  - :name: Makhu
+  - :name: Malerkotla
+  - :name: Maloud
+  - :name: Malout
+  - :name: Mansa
+  - :name: Maur
+  - :name: Moga
+  - :name: Moonak
+  - :name: Morinda
+  - :name: Mukerian
+  - :name: Muktsar
+  - :name: Mullanpur Dakha
+  - :name: Mullanpur- Garibdas
+  - :name: Nabha
+  - :name: Nakodar
+  - :name: Nangal
+  - :name: Nawanshahr
+  - :name: Nehon
+  - :name: Noor Mahal
+  - :name: Pathankot
+  - :name: Patiala
+  - :name: Patti
+  - :name: Pattran
+  - :name: Payal
+  - :name: Phagwara
+  - :name: Phillaur
+  - :name: Qadian
+  - :name: Rahon
+  - :name: Raikot
+  - :name: Rajasansi
+  - :name: Rajpura
+  - :name: Raman
+  - :name: Ramdass
+  - :name: Rampura Phul
+  - :name: Rayya
+  - :name: Rupnagar
+  - :name: Rurki Kasba
+  - :name: S.A.S. Nagar (Mohali)
+  - :name: Sahnewal
+  - :name: Samana
+  - :name: Samrala
+  - :name: Sanaur
+  - :name: Sangat
+  - :name: Sangrur
+  - :name: Sansarpur
+  - :name: Sardulgarh
+  - :name: Shahkot
+  - :name: Shamchaurasi
+  - :name: Shekhpura
+  - :name: Sirhind -Fategarh
+  - :name: Sri Hargobindpur
+  - :name: Sujanpur
+  - :name: Sultanpur Lodhi
+  - :name: Sunam
+  - :name: Talwandi Bhai
+  - :name: Talwara
+  - :name: Tappa
+  - :name: Tarn Taran
+  - :name: Urmar Tanda
+  - :name: Zira
+  - :name: Zirakpur
+- :name: Rajasthan
+  :cities:
+  - :name: Abu Road
+  - :name: Ajmer
+  - :name: Aklera
+  - :name: Alwar
+  - :name: Amet
+  - :name: Antah
+  - :name: Anupgarh
+  - :name: Asind
+  - :name: Baggar
+  - :name: Bagru
+  - :name: Bakani
+  - :name: Bali
+  - :name: Balotra
+  - :name: Bandikui
+  - :name: Banswara
+  - :name: Baran
+  - :name: Bari
+  - :name: Bari Sadri
+  - :name: Barmer
+  - :name: Basni Belima
+  - :name: Bayana
+  - :name: Beawar
+  - :name: Beejoliya Kalan
+  - :name: Begun
+  - :name: Behat
+  - :name: Behror
+  - :name: Bhadra
+  - :name: Bhalariya
+  - :name: Bharatpur
+  - :name: Bhawani Mandi
+  - :name: Bhilwara
+  - :name: Bhinder
+  - :name: Bhinmal
+  - :name: Bhiwadi
+  - :name: Bhusawar
+  - :name: Bidasar
+  - :name: Bikaner
+  - :name: Bilara
+  - :name: Bissau
+  - :name: Budhpura
+  - :name: Bundi
+  - :name: Chaksu
+  - :name: Chechat
+  - :name: Chhabra
+  - :name: Chhapar
+  - :name: Chhipabarod
+  - :name: Chhoti Sadri
+  - :name: Chirawa
+  - :name: Chittaurgarh
+  - :name: Chomu
+  - :name: Churu
+  - :name: Dariba
+  - :name: Dausa
+  - :name: Deeg
+  - :name: Deoli
+  - :name: Deshnoke
+  - :name: Devgarh
+  - :name: Dhariawad
+  - :name: Dhaulpur
+  - :name: Didwana
+  - :name: Dungargarh
+  - :name: Dungarpur
+  - :name: Fatehnagar
+  - :name: Fatehpur
+  - :name: Gajsinghpur
+  - :name: Galiakot
+  - :name: Ganganagar
+  - :name: Gangapur
+  - :name: Gangapur City
+  - :name: Goredi Chancha
+  - :name: Gothra
+  - :name: Govindgarh
+  - :name: Gulabpura
+  - :name: Hanumangarh
+  - :name: Hindaun
+  - :name: Indragarh
+  - :name: Jahazpur
+  - :name: Jaipur
+  - :name: Jaisalmer
+  - :name: Jaitaran
+  - :name: Jalor
+  - :name: Jhalawar
+  - :name: Jhalrapatan
+  - :name: Jhunjhunun
+  - :name: Jobner
+  - :name: Jodhpur
+  - :name: Kaithoon
+  - :name: Kaman
+  - :name: Kanor
+  - :name: Kapasan
+  - :name: Kaprain
+  - :name: Karanpur
+  - :name: Karauli
+  - :name: Kekri
+  - :name: Keshoraipatan
+  - :name: Kesrisinghpur
+  - :name: Khairthal
+  - :name: Khandela
+  - :name: Kherli
+  - :name: Kherliganj
+  - :name: Kherwara Chhaoni
+  - :name: Khetri
+  - :name: Kiranipura
+  - :name: Kishangarh
+  - :name: Kishangarh Renwal
+  - :name: Kolvi Mandi Rajendra Pura
+  - :name: Kota
+  - :name: Kotputli
+  - :name: Kuchaman City
+  - :name: Kuchera
+  - :name: Kumbhkot
+  - :name: Kumher
+  - :name: Kushalgarh
+  - :name: Lachhmangarh
+  - :name: Ladnu
+  - :name: Lakheri
+  - :name: Lalsot
+  - :name: Losal
+  - :name: Mahu Kalan
+  - :name: Mahwa
+  - :name: Makrana
+  - :name: Malpura
+  - :name: Mandalgarh
+  - :name: Mandawa
+  - :name: Mandawar
+  - :name: Mangrol
+  - :name: Manohar Thana
+  - :name: Marwar Junction
+  - :name: Merta City
+  - :name: Modak
+  - :name: Mount Abu
+  - :name: Mukandgarh
+  - :name: Mundwa
+  - :name: Nadbai
+  - :name: Nagar
+  - :name: Nagaur
+  - :name: Nainwa
+  - :name: Nasirabad
+  - :name: Nathdwara
+  - :name: Nawa
+  - :name: Nawalgarh
+  - :name: Neem-Ka-Thana
+  - :name: Newa Talai
+  - :name: Nimbahera
+  - :name: Niwai
+  - :name: Nohar
+  - :name: Nokha
+  - :name: Padampur
+  - :name: Pali
+  - :name: Parbatsar
+  - :name: Partapur
+  - :name: Phalna
+  - :name: Phalodi
+  - :name: Phulera
+  - :name: Pilani
+  - :name: Pilibanga
+  - :name: Pindwara
+  - :name: Piparcity
+  - :name: Pirawa
+  - :name: Pokaran
+  - :name: Pratapgarh
+  - :name: Pushkar
+  - :name: Raisinghnagar
+  - :name: Rajakhera
+  - :name: Rajaldesar
+  - :name: Rajgarh
+  - :name: Rajsamand
+  - :name: Ramganj Mandi
+  - :name: Ramgarh
+  - :name: Rani
+  - :name: Ratangarh
+  - :name: Ratannagar
+  - :name: Rawatbhata
+  - :name: Rawatsar
+  - :name: Reengus
+  - :name: Rikhabdeo
+  - :name: Sadri
+  - :name: Sadulshahar
+  - :name: Sagwara
+  - :name: Salumbar
+  - :name: Sambhar
+  - :name: Sanchore
+  - :name: Sangaria
+  - :name: Sangod
+  - :name: Sardarshahar
+  - :name: Sarwar
+  - :name: Satalkheri
+  - :name: Sawai Madhopur
+  - :name: Shahpura
+  - :name: Sheoganj
+  - :name: Sikar
+  - :name: Sirohi
+  - :name: Sogariya
+  - :name: Sojat
+  - :name: Sojat Road
+  - :name: Sri Madhopur
+  - :name: Sujangarh
+  - :name: Suket
+  - :name: Sumerpur
+  - :name: Surajgarh
+  - :name: Suratgarh
+  - :name: Takhatgarh
+  - :name: Taranagar
+  - :name: Tijara
+  - :name: Todabhim
+  - :name: Todaraisingh
+  - :name: Todra
+  - :name: Tonk
+  - :name: Udaipur
+  - :name: Udaipurwati
+  - :name: Udpura
+  - :name: Uniara
+  - :name: Vanasthali
+  - :name: Vidyavihar
+  - :name: Vijainagar
+  - :name: Viratnagar
+  - :name: Weir
+- :name: Jammu & Kashmir
+  :cities:
+  - :name: Achabal
+  - :name: Akhnoor
+  - :name: Anantnag
+  - :name: Arnia
+  - :name: Awantipora
+  - :name: Badami Bagh
+  - :name: Badgam
+  - :name: Bandipore
+  - :name: Banihal
+  - :name: Baramula
+  - :name: Bari Brahmana
+  - :name: Bashohli
+  - :name: Batote
+  - :name: Beerwah
+  - :name: Bhaderwah
+  - :name: Bijbehara
+  - :name: Billawar
+  - :name: Bishna
+  - :name: Charari Sharief
+  - :name: Chenani
+  - :name: Doda
+  - :name: Duru-Verinag
+  - :name: Ganderbal
+  - :name: Gho Manhasan
+  - :name: Gorah Salathian
+  - :name: Gulmarg
+  - :name: Hajan
+  - :name: Handwara
+  - :name: Hiranagar
+  - :name: Jammu
+  - :name: Jammu Cantonment
+  - :name: Jourian
+  - :name: Kargil
+  - :name: Kathua
+  - :name: Katra
+  - :name: Khan Sahib
+  - :name: Khour
+  - :name: Khrew
+  - :name: Kishtwar
+  - :name: Kud
+  - :name: Kukernag
+  - :name: Kulgam
+  - :name: Kunzer
+  - :name: Kupwara
+  - :name: Lakhenpur
+  - :name: Leh
+  - :name: Magam
+  - :name: Mattan
+  - :name: Nowshehra
+  - :name: Pahalgam
+  - :name: Pampore
+  - :name: Parole
+  - :name: Pattan
+  - :name: Pulwama
+  - :name: Punch
+  - :name: Qazigund
+  - :name: Rajauri
+  - :name: Ram Garh
+  - :name: Ramban
+  - :name: Ramnagar
+  - :name: Ranbir Singh Pora
+  - :name: Reasi
+  - :name: Rehambal
+  - :name: Samba
+  - :name: Shupiyan
+  - :name: Sopore
+  - :name: Srinagar
+  - :name: Sumbal
+  - :name: Sunderbani
+  - :name: Talwara
+  - :name: Thanamandi
+  - :name: Tral
+  - :name: Udhampur
+  - :name: Uri
+  - :name: Vijay Pur
+- :name: Maharashtra
+  :cities:
+  - :name: Achalpur
+  - :name: Ahmadnagar
+  - :name: Ahmadpur
+  - :name: Ajra
+  - :name: Akkalkot
+  - :name: Akola
+  - :name: Akot
+  - :name: Alandi
+  - :name: Alibag
+  - :name: Amalner
+  - :name: Ambad
+  - :name: Ambarnath
+  - :name: Ambejogai
+  - :name: Ambivali Tarf Wankhal
+  - :name: Amravati
+  - :name: Anjangaon
+  - :name: Arvi
+  - :name: Ashta
+  - :name: Aurangabad
+  - :name: Ausa
+  - :name: Babhulgaon
+  - :name: Badlapur
+  - :name: Balapur
+  - :name: Ballarpur
+  - :name: Baramati
+  - :name: Barshi
+  - :name: Basmath
+  - :name: Bhadravati
+  - :name: Bhagur
+  - :name: Bhandara
+  - :name: Bhingar
+  - :name: Bhiwandi
+  - :name: Bhokardan
+  - :name: Bhor
+  - :name: Bhum
+  - :name: Bhusawal
+  - :name: Bid
+  - :name: Biloli
+  - :name: Birwadi
+  - :name: Boisar
+  - :name: Brahmapuri
+  - :name: Budhgaon
+  - :name: Buldana
+  - :name: Chakan
+  - :name: Chalisgaon
+  - :name: Chandrapur
+  - :name: Chandur
+  - :name: Chandurbazar
+  - :name: Chicholi
+  - :name: Chikhaldara
+  - :name: Chikhli
+  - :name: Chinchani
+  - :name: Chiplun
+  - :name: Chopda
+  - :name: Dahanu
+  - :name: Dapoli Camp
+  - :name: Darwha
+  - :name: Daryapur Banosa
+  - :name: Dattapur Dhamangaon
+  - :name: Daund
+  - :name: Davlameti
+  - :name: Deglur
+  - :name: Dehu
+  - :name: Dehu Road
+  - :name: Deolali
+  - :name: Deolali Pravara
+  - :name: Deoli
+  - :name: Desaiganj
+  - :name: Deulgaon Raja
+  - :name: Dewhadi
+  - :name: Dharangaon
+  - :name: Dharmabad
+  - :name: Dharur
+  - :name: Dhatau
+  - :name: Dhule
+  - :name: Digdoh
+  - :name: Digras
+  - :name: Dondaicha-Warwade
+  - :name: Dudhani
+  - :name: Durgapur
+  - :name: Dyane
+  - :name: Eklahare
+  - :name: Erandol
+  - :name: Faizpur
+  - :name: Gadchiroli
+  - :name: Gadhinglaj
+  - :name: Gandhinagar
+  - :name: Ganeshpur
+  - :name: Gangakhed
+  - :name: Gangapur
+  - :name: Georai
+  - :name: Ghatanji
+  - :name: Ghoti Budruk
+  - :name: Ghugus
+  - :name: Ghulewadi
+  - :name: Godoli
+  - :name: Gokhivare
+  - :name: Gondiya
+  - :name: Goregaon
+  - :name: Greater Mumbai
+  - :name: Guhagar
+  - :name: Hadgaon
+  - :name: Hinganghat
+  - :name: Hingoli
+  - :name: Hupari
+  - :name: Ichalkaranji
+  - :name: Igatpuri
+  - :name: Indapur
+  - :name: Jalgaon
+  - :name: Jalgaon (Jamod)
+  - :name: Jalna
+  - :name: Jamkhed
+  - :name: Jawhar
+  - :name: Jaysingpur
+  - :name: Jejuri
+  - :name: Jintur
+  - :name: Junnar
+  - :name: Kabnur
+  - :name: Kagal
+  - :name: Kalamb
+  - :name: Kalambe Turf Thane
+  - :name: Kalameshwar
+  - :name: Kalamnuri
+  - :name: Kalundre
+  - :name: Kalyan-Dombivali
+  - :name: Kamptee
+  - :name: Kandari
+  - :name: Kandhar
+  - :name: Kandri
+  - :name: Kanhan (Pipri)
+  - :name: Kankavli
+  - :name: Kannad
+  - :name: Karad
+  - :name: Karanja
+  - :name: Karanje Turf Satara
+  - :name: Karivali
+  - :name: Karjat
+  - :name: Karmala
+  - :name: Kasara Budruk
+  - :name: Katai
+  - :name: Katkar
+  - :name: Katol
+  - :name: Kegaon
+  - :name: Khadkale
+  - :name: Khamgaon
+  - :name: Khapa
+  - :name: Khed
+  - :name: Kherdi
+  - :name: Khoni
+  - :name: Khopoli
+  - :name: Khuldabad
+  - :name: Kinwat
+  - :name: Kirkee
+  - :name: Kodoli
+  - :name: Kolhapur
+  - :name: Kon
+  - :name: Kondumal
+  - :name: Kopargaon
+  - :name: Kopharad
+  - :name: Korochi
+  - :name: Kudal
+  - :name: Kundalwadi
+  - :name: Kurduvadi
+  - :name: Kurundvad
+  - :name: Kusgaon Budruk
+  - :name: Lanja
+  - :name: Lasalgaon
+  - :name: Latur
+  - :name: Loha
+  - :name: Lonar
+  - :name: Lonavala
+  - :name: Madhavnagar
+  - :name: Mahabaleshwar
+  - :name: Mahad
+  - :name: Mahadula
+  - :name: Maindargi
+  - :name: Malegaon
+  - :name: Malkapur
+  - :name: Malwan
+  - :name: Manadur
+  - :name: Manchar
+  - :name: Mangalvedhe
+  - :name: Mangrulpir
+  - :name: Manjlegaon
+  - :name: Manmad
+  - :name: Manor
+  - :name: Mansar
+  - :name: Manwath
+  - :name: Matheran
+  - :name: Mehkar
+  - :name: Mhasla
+  - :name: Mhaswad
+  - :name: Mira-Bhayandar
+  - :name: Mohpa
+  - :name: Mohpada Alias Wasambe
+  - :name: Morshi
+  - :name: Mowad
+  - :name: Mudkhed
+  - :name: Mukhed
+  - :name: Mul
+  - :name: Murbad
+  - :name: Murgud
+  - :name: Murtijapur
+  - :name: Murud
+  - :name: Murum
+  - :name: Mumbai
+  - :name: Nachane
+  - :name: Nagapur
+  - :name: Nagardeole
+  - :name: Nagothana
+  - :name: Nagpur
+  - :name: Nakoda
+  - :name: Nala Sopara
+  - :name: Naldurg
+  - :name: Nanded-Waghala
+  - :name: Nandgaon
+  - :name: Nandura
+  - :name: Nandurbar
+  - :name: Narkhed
+  - :name: Nashik
+  - :name: Navghar-Manikpur
+  - :name: Navi Mumbai
+  - :name: Navi Mumbai (Panvel, Raigarh)
+  - :name: Nawapur
+  - :name: Neral
+  - :name: Nilanga
+  - :name: Nildoh
+  - :name: Nimbhore Budruk
+  - :name: Osmanabad
+  - :name: Ozar
+  - :name: Pachgaon
+  - :name: Pachora
+  - :name: Padagha
+  - :name: Paithan
+  - :name: Palghar
+  - :name: Pali
+  - :name: Panchgani
+  - :name: Pandharkaoda
+  - :name: Pandharpur
+  - :name: Panhala
+  - :name: Panvel
+  - :name: Paranda
+  - :name: Parbhani
+  - :name: Parli
+  - :name: Parola
+  - :name: Partur
+  - :name: Pasthal
+  - :name: Patan
+  - :name: Pathardi
+  - :name: Pathri
+  - :name: Patur
+  - :name: Pauni
+  - :name: Pen
+  - :name: Peth Umri
+  - :name: Phaltan
+  - :name: Pimpri Chinchwad
+  - :name: Poladpur
+  - :name: Pulgaon
+  - :name: Pune
+  - :name: Purna
+  - :name: Purushottamnagar
+  - :name: Pusad
+  - :name: Rahimatpur
+  - :name: Rahta Pimplas
+  - :name: Rahuri
+  - :name: Rajapur
+  - :name: Rajgurunagar (Khed)
+  - :name: Rajur
+  - :name: Rajura
+  - :name: Ramtek
+  - :name: Ratnagiri
+  - :name: Raver
+  - :name: Risod
+  - :name: Roha Ashtami
+  - :name: Sailu
+  - :name: Sandor
+  - :name: Sangamner
+  - :name: Sangli-Miraj & Kupwad
+  - :name: Sangole
+  - :name: Sasti
+  - :name: Sasvad
+  - :name: Satana
+  - :name: Satara
+  - :name: Savda
+  - :name: Savner
+  - :name: Sawantwadi
+  - :name: Sawari Jawharnagar
+  - :name: Shahade
+  - :name: Shahapur
+  - :name: Shegaon
+  - :name: Shelar
+  - :name: Shendurjana
+  - :name: Shirdi
+  - :name: Shirpur-Warwade
+  - :name: Shirur
+  - :name: Shirwal
+  - :name: Shivajinagar
+  - :name: Shivatkar (Nira)
+  - :name: Shrigonda
+  - :name: Shrirampur
+  - :name: Shrirampur(Rural)
+  - :name: Shrivardhan
+  - :name: Sillewada
+  - :name: Sillod
+  - :name: Sindi
+  - :name: Sindi Turf Hindnagar
+  - :name: Sindkhed Raja
+  - :name: Singnapur
+  - :name: Sinnar
+  - :name: Solapur
+  - :name: Sonegaon (Nipani)
+  - :name: Sonpeth
+  - :name: Soyagaon
+  - :name: Surgana
+  - :name: Talegaon Dabhade
+  - :name: Talode
+  - :name: Taloje Panchnad
+  - :name: Tarapur
+  - :name: Tasgaon
+  - :name: Tathavade
+  - :name: Tekadi
+  - :name: Telhara
+  - :name: Thane
+  - :name: Tirora
+  - :name: Totaladoh
+  - :name: Trimbak
+  - :name: Tuljapur
+  - :name: Tumsar
+  - :name: Uchgaon
+  - :name: Udgir
+  - :name: Ulhasnagar
+  - :name: Umarga
+  - :name: Umarkhed
+  - :name: Umarsara
+  - :name: Umbar Pada Nandade
+  - :name: Umred
+  - :name: Umri Pragane Balapur
+  - :name: Uran
+  - :name: Uran Islampur
+  - :name: Utekhol
+  - :name: Vada
+  - :name: Vadgaon
+  - :name: Vadgaon Kasba
+  - :name: Vaijapur
+  - :name: Vanvadi (Sadashivgad)
+  - :name: Vasai
+  - :name: Vasantnagar
+  - :name: Vashind
+  - :name: Vengurla
+  - :name: Virar
+  - :name: Vita
+  - :name: Wadgaon Road
+  - :name: Wadi
+  - :name: Waghapur
+  - :name: Wai
+  - :name: Wajegaon
+  - :name: Walani
+  - :name: Waliv
+  - :name: Wanadongri
+  - :name: Wani
+  - :name: Wardha
+  - :name: Warora
+  - :name: Warud
+  - :name: Washim
+  - :name: Yavatmal
+  - :name: Yawal
+  - :name: Yerkheda
+  - :name: Yevla
+- :name: Uttar Pradesh
+  :cities:
+  - :name: Achhalda
+  - :name: Achhnera
+  - :name: Adari
+  - :name: Afzalgarh
+  - :name: Agarwal Mandi
+  - :name: Agra
+  - :name: Ahraura
+  - :name: Ailum
+  - :name: Air Force Area
+  - :name: Ajhuwa
+  - :name: Akbarpur
+  - :name: Aliganj
+  - :name: Aligarh
+  - :name: Allahabad
+  - :name: Allahganj
+  - :name: Allapur
+  - :name: Amanpur
+  - :name: Ambehta
+  - :name: Amethi
+  - :name: Amila
+  - :name: Amilo
+  - :name: Aminagar Sarai
+  - :name: Aminagar Urf Bhurbaral
+  - :name: Amraudha
+  - :name: Amroha
+  - :name: Anandnagar
+  - :name: Anpara
+  - :name: Antu
+  - :name: Anupshahr
+  - :name: Aonla
+  - :name: Armapur Estate
+  - :name: Ashrafpur Kichhauchha
+  - :name: Atarra
+  - :name: Atasu
+  - :name: Atrauli
+  - :name: Atraulia
+  - :name: Auraiya
+  - :name: Aurangabad
+  - :name: Aurangabad Bangar
+  - :name: Auras
+  - :name: Awagarh
+  - :name: Ayodhya
+  - :name: Azamgarh
+  - :name: Azizpur
+  - :name: Azmatgarh
+  - :name: Babarpur Ajitmal
+  - :name: Baberu
+  - :name: Babina
+  - :name: Babrala
+  - :name: Babugarh
+  - :name: Bachhraon
+  - :name: Bachhrawan
+  - :name: Bad
+  - :name: Baghpat
+  - :name: Bah
+  - :name: Bahadurganj
+  - :name: Baheri
+  - :name: Bahjoi
+  - :name: Bahraich
+  - :name: Bahsuma
+  - :name: Bahuwa
+  - :name: Bajna
+  - :name: Bakewar
+  - :name: Bakiabad
+  - :name: Baldeo
+  - :name: Ballia
+  - :name: Balrampur
+  - :name: Banat
+  - :name: Banda
+  - :name: Bangarmau
+  - :name: Banki
+  - :name: Bansdih
+  - :name: Bansgaon
+  - :name: Bansi
+  - :name: Baragaon
+  - :name: Baraut
+  - :name: Bareilly
+  - :name: Barhalganj
+  - :name: Barhani Bazar
+  - :name: Barkhera
+  - :name: Barsana
+  - :name: Barua Sagar
+  - :name: Barwar
+  - :name: Basti
+  - :name: Begumabad Budhana
+  - :name: Behta Hajipur
+  - :name: Bela Pratapgarh
+  - :name: Belthara Road
+  - :name: Beniganj
+  - :name: Beswan
+  - :name: Bewar
+  - :name: Bhadarsa
+  - :name: Bhadohi
+  - :name: Bhagwant Nagar
+  - :name: Bharatganj
+  - :name: Bhargain
+  - :name: Bharthana
+  - :name: Bharuhana
+  - :name: Bharwari
+  - :name: Bhatni Bazar
+  - :name: Bhatpar Rani
+  - :name: Bhawan Bahadur Nagar
+  - :name: Bhinga
+  - :name: Bhogaon
+  - :name: Bhojpur Dharampur
+  - :name: Bhokarhedi
+  - :name: Bhulepur
+  - :name: Bidhuna
+  - :name: Bighapur
+  - :name: Bijnor
+  - :name: Bijpur
+  - :name: Bikapur
+  - :name: Bilari
+  - :name: Bilariaganj
+  - :name: Bilaspur
+  - :name: Bilgram
+  - :name: Bilhaur
+  - :name: Bilram
+  - :name: Bilsanda
+  - :name: Bilsi
+  - :name: Bindki
+  - :name: Bisalpur
+  - :name: Bisanda Buzurg
+  - :name: Bisauli
+  - :name: Bisharatganj
+  - :name: Bisokhar
+  - :name: Biswan
+  - :name: Bithoor
+  - :name: Budaun
+  - :name: Budhana
+  - :name: Bugrasi
+  - :name: Bulandshahr
+  - :name: Chail
+  - :name: Chak Imam Ali
+  - :name: Chakeri
+  - :name: Chakia
+  - :name: Chandauli
+  - :name: Chandausi
+  - :name: Chandpur
+  - :name: Charkhari
+  - :name: Charthaval
+  - :name: Chaumuhan
+  - :name: Chhaprauli
+  - :name: Chharra Rafatpur
+  - :name: Chhata
+  - :name: Chhatari
+  - :name: Chhibramau
+  - :name: Chhutmalpur
+  - :name: Chilkana Sultanpur
+  - :name: Chirgaon
+  - :name: Chitbara Gaon
+  - :name: Chitrakoot Dham (Karwi)
+  - :name: Chopan
+  - :name: Choubepur Kalan
+  - :name: Chunar
+  - :name: Churk Ghurma
+  - :name: Colonelganj
+  - :name: Dadri
+  - :name: Dalmau
+  - :name: Dankaur
+  - :name: Dariyabad
+  - :name: Dasna
+  - :name: Dataganj
+  - :name: Daurala
+  - :name: Dayalbagh
+  - :name: Deoband
+  - :name: Deoranian
+  - :name: Deoria
+  - :name: Dewa
+  - :name: Dhampur
+  - :name: Dhanauha
+  - :name: Dhanauli
+  - :name: Dhanaura
+  - :name: Dharoti Khurd
+  - :name: Dhaura Tanda
+  - :name: Dhaurehra
+  - :name: Dibai
+  - :name: Dibiyapur
+  - :name: Dildarnagar Fatehpur Bazar
+  - :name: Doghat
+  - :name: Dohrighat
+  - :name: Dostpur
+  - :name: Dudhi
+  - :name: Dulhipur
+  - :name: Ekdil
+  - :name: Erich
+  - :name: Etah
+  - :name: Etawah
+  - :name: Etmadpur
+  - :name: Faizabad
+  - :name: Faizganj
+  - :name: Farah
+  - :name: Faridnagar
+  - :name: Faridpur
+  - :name: Fariha
+  - :name: Farrukhabad-Cum-Fatehgarh
+  - :name: Fatehabad
+  - :name: Fatehganj Pashchimi
+  - :name: Fatehganj Purvi
+  - :name: Fatehgarh
+  - :name: Fatehpur
+  - :name: Fatehpur Chaurasi
+  - :name: Fatehpur Sikri
+  - :name: Firozabad
+  - :name: Gajraula
+  - :name: Gangaghat
+  - :name: Gangapur
+  - :name: Gangoh
+  - :name: Ganj Dundawara
+  - :name: Ganj Muradabad
+  - :name: Garautha
+  - :name: Garhi Pukhta
+  - :name: Garhmukteshwar
+  - :name: Gaura Barhaj
+  - :name: Gauri Bazar
+  - :name: Gausganj
+  - :name: Gawan
+  - :name: Ghatampur
+  - :name: Ghaziabad
+  - :name: Ghazipur
+  - :name: Ghiraur
+  - :name: Ghorawal
+  - :name: Ghosi
+  - :name: Ghosia Bazar
+  - :name: Ghughuli
+  - :name: Gohand
+  - :name: Gokul
+  - :name: Gola Bazar
+  - :name: Gola Gokarannath
+  - :name: Gonda
+  - :name: Gopamau
+  - :name: Gopiganj
+  - :name: Gorakhpur
+  - :name: Gosainganj
+  - :name: Govardhan
+  - :name: Gulaothi
+  - :name: Gularia Bhindara
+  - :name: Gulariya
+  - :name: Gunnaur
+  - :name: Gursahaiganj
+  - :name: Gursarai
+  - :name: Gyanpur
+  - :name: Hafizpur
+  - :name: Haidergarh
+  - :name: Haldaur
+  - :name: Hamirpur
+  - :name: Handia
+  - :name: Hapur
+  - :name: Hardoi
+  - :name: Harduaganj
+  - :name: Hargaon
+  - :name: Hariharpur
+  - :name: Harraiya
+  - :name: Hasanpur
+  - :name: Hasayan
+  - :name: Hastinapur
+  - :name: Hata
+  - :name: Hathras
+  - :name: Hyderabad
+  - :name: Ibrahimpur
+  - :name: Iglas
+  - :name: Ikauna
+  - :name: Iltifatganj Bazar
+  - :name: Indian Telephone Industry, Mankapur (Sp. Village)
+  - :name: Islamnagar
+  - :name: Itaunja
+  - :name: Jafarabad
+  - :name: Jagner
+  - :name: Jahanabad
+  - :name: Jahangirabad
+  - :name: Jahangirpur
+  - :name: Jais
+  - :name: Jaithara
+  - :name: Jalalabad
+  - :name: Jalali
+  - :name: Jalalpur
+  - :name: Jalaun
+  - :name: Jalesar
+  - :name: Jamshila
+  - :name: Jangipur
+  - :name: Jansath
+  - :name: Jarwal
+  - :name: Jasrana
+  - :name: Jaswantnagar
+  - :name: Jatari
+  - :name: Jaunpur
+  - :name: Jewar
+  - :name: Jhalu
+  - :name: Jhansi
+  - :name: Jhansi Rly. Settlement
+  - :name: Jhinjhak
+  - :name: Jhinjhana
+  - :name: Jhusi
+  - :name: Jhusi Kohna
+  - :name: Jiyanpur
+  - :name: Joya
+  - :name: Jyoti Khuria
+  - :name: Kabrai
+  - :name: Kachhauna Patseni
+  - :name: Kachhla
+  - :name: Kachhwa
+  - :name: Kadaura
+  - :name: Kadipur
+  - :name: Kailashpur
+  - :name: Kaimganj
+  - :name: Kairana
+  - :name: Kakgaina
+  - :name: Kakod
+  - :name: Kakori
+  - :name: Kakrala
+  - :name: Kalinagar
+  - :name: Kalpi
+  - :name: Kamalganj
+  - :name: Kampil
+  - :name: Kandhla
+  - :name: Kandwa
+  - :name: Kannauj
+  - :name: Kanpur
+  - :name: Kanth
+  - :name: Kaptanganj
+  - :name: Karari
+  - :name: Karhal
+  - :name: Karnawal
+  - :name: Kasganj
+  - :name: Katariya
+  - :name: Katghar Lalganj
+  - :name: Kathera
+  - :name: Katra
+  - :name: Katra Medniganj
+  - :name: Kauriaganj
+  - :name: Kemri
+  - :name: Kerakat
+  - :name: Khadda
+  - :name: Khaga
+  - :name: Khailar
+  - :name: Khair
+  - :name: Khairabad
+  - :name: Khalilabad
+  - :name: Khamaria
+  - :name: Khanpur
+  - :name: Kharela
+  - :name: Khargupur
+  - :name: Khariya
+  - :name: Kharkhoda
+  - :name: Khatauli
+  - :name: Khatauli Rural
+  - :name: Khekada
+  - :name: Kheragarh
+  - :name: Kheri
+  - :name: Kheta Sarai
+  - :name: Khudaganj
+  - :name: Khurja
+  - :name: Khutar
+  - :name: Kiraoli
+  - :name: Kiratpur
+  - :name: Kishni
+  - :name: Kishunpur
+  - :name: Kithaur
+  - :name: Koeripur
+  - :name: Konch
+  - :name: Kopaganj
+  - :name: Kora Jahanabad
+  - :name: Koraon
+  - :name: Korwa
+  - :name: Kosi Kalan
+  - :name: Kota
+  - :name: Kotra
+  - :name: Kotwa
+  - :name: Kul Pahar
+  - :name: Kunda
+  - :name: Kundarki
+  - :name: Kunwargaon
+  - :name: Kuraoli
+  - :name: Kurara
+  - :name: Kursath
+  - :name: Kurthi Jafarpur
+  - :name: Kushinagar
+  - :name: Kusmara
+  - :name: Laharpur
+  - :name: Lakhimpur
+  - :name: Lakhna
+  - :name: Lal Gopalganj Nindaura
+  - :name: Lalganj
+  - :name: Lalitpur
+  - :name: Lar
+  - :name: Lawar Np
+  - :name: Ledwa Mahua
+  - :name: Lohta
+  - :name: Loni
+  - :name: Lucknow
+  - :name: Machhlishahr
+  - :name: Madhoganj
+  - :name: Madhogarh
+  - :name: Maghar
+  - :name: Mahaban
+  - :name: Mahmudabad
+  - :name: Mahoba
+  - :name: Maholi
+  - :name: Mahona
+  - :name: Mahrajganj
+  - :name: Mahroni
+  - :name: Mailani
+  - :name: Mainpuri
+  - :name: Majhara Pipar Ehatmali
+  - :name: Majhauli Raj
+  - :name: Malihabad
+  - :name: Mallawan
+  - :name: Mandawar
+  - :name: Manikpur
+  - :name: Manikpur Sarhat
+  - :name: Maniyar
+  - :name: Manjhanpur
+  - :name: Mankapur
+  - :name: Marehra
+  - :name: Mariahu
+  - :name: Maruadih Rly. Settlement
+  - :name: Maswasi
+  - :name: Mataundh
+  - :name: Mathura
+  - :name: Mau Aima
+  - :name: Maudaha
+  - :name: Maunath Bhanjan
+  - :name: Mauranipur
+  - :name: Maurawan
+  - :name: Mawana
+  - :name: Meerut
+  - :name: Mehdawal
+  - :name: Mehnagar
+  - :name: Mendu
+  - :name: Milak
+  - :name: Miranpur
+  - :name: Mirganj
+  - :name: Mirzapur-Cum-Vindhyachal
+  - :name: Misrikh-Cum-Neemsar
+  - :name: Modinagar
+  - :name: Mogra Badshahpur
+  - :name: Mohammadabad
+  - :name: Mohammadi
+  - :name: Mohan
+  - :name: Mohanpur
+  - :name: Mohiuddinpur
+  - :name: Moradabad
+  - :name: Moth
+  - :name: Mubarakpur
+  - :name: Mughalsarai
+  - :name: Mughalsarai Rly. Settlement
+  - :name: Muhammadabad
+  - :name: Mukrampur Khema
+  - :name: Mundera Bazar
+  - :name: Mundia
+  - :name: Muradnagar
+  - :name: Mursan
+  - :name: Musafirkhana
+  - :name: Muzaffarnagar
+  - :name: Nadigaon
+  - :name: Nagina
+  - :name: Nagram
+  - :name: Nai Bazar
+  - :name: Nainana Jat
+  - :name: Najibabad
+  - :name: Nakur
+  - :name: Nanauta
+  - :name: Nandgaon
+  - :name: Nanpara
+  - :name: Naraini
+  - :name: Narauli
+  - :name: Naraura
+  - :name: Naugawan Sadat
+  - :name: Nautanwa
+  - :name: Nawabganj
+  - :name: Nehtaur
+  - :name: Nichlaul
+  - :name: Nidhauli Kalan
+  - :name: Niwari
+  - :name: Nizamabad
+  - :name: Noida
+  - :name: Noorpur
+  - :name: Northern Rly. Colony
+  - :name: Nyoria Husainpur
+  - :name: Nyotini
+  - :name: Obra
+  - :name: Oel Dhakwa
+  - :name: Orai
+  - :name: Oran
+  - :name: Ordnance Factory Muradnagar
+  - :name: Pachperwa
+  - :name: Padrauna
+  - :name: Pahasu
+  - :name: Paintepur
+  - :name: Pali
+  - :name: Palia Kalan
+  - :name: Parasi
+  - :name: Parichha
+  - :name: Parikshitgarh
+  - :name: Parsadepur
+  - :name: Patala
+  - :name: Patiyali
+  - :name: Patti
+  - :name: Phalauda
+  - :name: Phaphund
+  - :name: Phulpur
+  - :name: Phulwaria
+  - :name: Pihani
+  - :name: Pilibhit
+  - :name: Pilkhana
+  - :name: Pilkhuwa
+  - :name: Pinahat
+  - :name: Pipalsana Chaudhari
+  - :name: Pipiganj
+  - :name: Pipraich
+  - :name: Pipri
+  - :name: Powayan
+  - :name: Pratapgarh City
+  - :name: Pukhrayan
+  - :name: Puranpur
+  - :name: Purdilnagar
+  - :name: Purquazi
+  - :name: Purwa
+  - :name: Qasimpur Power House Colony
+  - :name: Rabupura
+  - :name: Radhakund
+  - :name: Rae Bareli
+  - :name: Raja Ka Rampur
+  - :name: Rajapur
+  - :name: Ramkola
+  - :name: Ramnagar
+  - :name: Rampur
+  - :name: Rampur Bhawanipur
+  - :name: Rampur Karkhana
+  - :name: Rampur Maniharan
+  - :name: Rampura
+  - :name: Ranipur
+  - :name: Rashidpur Garhi
+  - :name: Rasra
+  - :name: Rasulabad
+  - :name: Rath
+  - :name: Raya
+  - :name: Renukoot
+  - :name: Reoti
+  - :name: Richha
+  - :name: Risia Bazar
+  - :name: Rithora
+  - :name: Rly. Settlement Roza
+  - :name: Robertsganj
+  - :name: Rudauli
+  - :name: Rudayan
+  - :name: Rudrapur
+  - :name: Rura
+  - :name: Rustamnagar Sahaspur
+  - :name: Sadabad
+  - :name: Sadat
+  - :name: Safipur
+  - :name: Sahanpur
+  - :name: Saharanpur
+  - :name: Sahaspur
+  - :name: Sahaswan
+  - :name: Sahatwar
+  - :name: Sahawar
+  - :name: Sahjanwa
+  - :name: Sahpau Np
+  - :name: Saidpur
+  - :name: Sainthal
+  - :name: Saiyad Raja
+  - :name: Sakhanu
+  - :name: Sakit
+  - :name: Salarpur Khadar
+  - :name: Salempur
+  - :name: Salon
+  - :name: Sambhal
+  - :name: Samdhan
+  - :name: Samthar
+  - :name: Sandi
+  - :name: Sandila
+  - :name: Sarai Aquil
+  - :name: Sarai Mir
+  - :name: Sardhana
+  - :name: Sarila
+  - :name: Sarsawan
+  - :name: Sasni
+  - :name: Satrikh
+  - :name: Saunkh
+  - :name: Saurikh
+  - :name: Seohara
+  - :name: Sewalkhas
+  - :name: Sewarhi
+  - :name: Shahabad
+  - :name: Shahganj
+  - :name: Shahi
+  - :name: Shahjahanpur
+  - :name: Shahpur
+  - :name: Shamli
+  - :name: Shamsabad
+  - :name: Shankargarh
+  - :name: Shergarh
+  - :name: Sherkot
+  - :name: Shikarpur
+  - :name: Shikohabad
+  - :name: Shishgarh
+  - :name: Shivdaspur
+  - :name: Shivli
+  - :name: Shivrajpur
+  - :name: Shohratgarh
+  - :name: Siana
+  - :name: Siddhaur
+  - :name: Sidhauli
+  - :name: Sidhpura
+  - :name: Sikanderpur
+  - :name: Sikandra
+  - :name: Sikandra Rao
+  - :name: Sikandrabad
+  - :name: Singahi Bhiraura
+  - :name: Sirathu
+  - :name: Sirauli
+  - :name: Sirsa
+  - :name: Sirsaganj
+  - :name: Sirsi
+  - :name: Sisauli
+  - :name: Siswa Bazar
+  - :name: Sitapur
+  - :name: Som
+  - :name: Soron
+  - :name: Suar
+  - :name: Sukhmalpur Nizamabad
+  - :name: Sultanpur
+  - :name: Sumerpur
+  - :name: Suriyawan
+  - :name: Swamibagh
+  - :name: Talbehat
+  - :name: Talgram
+  - :name: Tambaur-Cum-Ahmadabad
+  - :name: Tanda
+  - :name: Tatarpur Lallu
+  - :name: Tetri Bazar
+  - :name: Thakurdwara
+  - :name: Thana Bhawan
+  - :name: Thiriya Nizamat Khan
+  - :name: Tikait Nagar
+  - :name: Tikri
+  - :name: Tilhar
+  - :name: Tindwari
+  - :name: Tirwaganj
+  - :name: Titron
+  - :name: Tondi Fatehpur
+  - :name: Tulsipur
+  - :name: Tundla
+  - :name: Tundla Kham
+  - :name: Tundla Rly. Colony
+  - :name: Ugu
+  - :name: Ujhani
+  - :name: Ujhari
+  - :name: Umri
+  - :name: Umri Kalan
+  - :name: Un
+  - :name: Unchahar
+  - :name: Unnao
+  - :name: Usawan
+  - :name: Usehat
+  - :name: Utraula
+  - :name: Varanasi
+  - :name: Vijaigarh
+  - :name: Vrindavan
+  - :name: Warhapur
+  - :name: Wazirganj
+  - :name: Zaidpur
+  - :name: Zamania
+- :name: Andhra Pradesh
+  :cities:
+  - :name: Adilabad
+  - :name: Adoni
+  - :name: Akkarampalle
+  - :name: Akkayapalle
+  - :name: Alwal
+  - :name: Amadalavalasa
+  - :name: Amalapuram
+  - :name: Anakapalle
+  - :name: Anantapur
+  - :name: Asifabad
+  - :name: Badepalle
+  - :name: Bandarulanka
+  - :name: Bapatla
+  - :name: Bellampalle
+  - :name: Bestavaripeta
+  - :name: Bethamcheria
+  - :name: Bhadrachalam
+  - :name: Bhainsa
+  - :name: Bheemavaram
+  - :name: Bheemunipatnam
+  - :name: Bhongir
+  - :name: Bobbili
+  - :name: Bodhan
+  - :name: Bollaram
+  - :name: Bugganipalle
+  - :name: Chandur
+  - :name: Chatakonda
+  - :name: Chemmumiahpet
+  - :name: Chilakaluripet
+  - :name: Chinnachowk
+  - :name: Chintalavalasa
+  - :name: Chirala
+  - :name: Chittoor
+  - :name: Choutuppal
+  - :name: Chunchupalle
+  - :name: Cuddapah
+  - :name: Dasnapur
+  - :name: Devarakonda
+  - :name: Dharmavaram
+  - :name: Dommara Nandyal
+  - :name: Dowleswaram
+  - :name: Eddumailaram
+  - :name: Ekambara Kuppam
+  - :name: Eluru
+  - :name: Farooqnagar
+  - :name: Gaddi Annaram
+  - :name: Gadwal
+  - :name: Gajapathinagaram
+  - :name: Gajularega
+  - :name: Gajuwaka
+  - :name: Ghatkeser
+  - :name: Gooty
+  - :name: Gudivada
+  - :name: Gudur
+  - :name: Guntakal
+  - :name: Guntur
+  - :name: Hindupur
+  - :name: Hyderabad M.Corp
+  - :name: Ichchapuram
+  - :name: Isnapur
+  - :name: Jaggayyapet
+  - :name: Jagtial
+  - :name: Jallaram Kamanpur
+  - :name: Jammalamadugu
+  - :name: Jangaon
+  - :name: Jarjapupeta
+  - :name: Kadiri
+  - :name: Kaghaznagar
+  - :name: Kakinada
+  - :name: Kallur
+  - :name: Kalyandurg
+  - :name: Kamareddy
+  - :name: Kanapaka
+  - :name: Kandukur
+  - :name: Kantabamsuguda
+  - :name: Kanuru
+  - :name: Kapra
+  - :name: Kavali
+  - :name: Koratla
+  - :name: Kothagudem
+  - :name: Kothavalasa
+  - :name: Kovurpalle
+  - :name: Kovvur
+  - :name: Kukatpalle
+  - :name: Kuppam
+  - :name: Kurnool
+  - :name: Kyathampalle
+  - :name: L.B. Nagar
+  - :name: Macherla
+  - :name: Machilipatnam
+  - :name: Madanapalle
+  - :name: Madaram
+  - :name: Mahbubnagar
+  - :name: Malkajgiri
+  - :name: Mancherial
+  - :name: Mandamarri
+  - :name: Mandapeta
+  - :name: Mangalagiri
+  - :name: Manugur
+  - :name: Markapur
+  - :name: Medak
+  - :name: Meerpet
+  - :name: Moragudi
+  - :name: Nagari
+  - :name: Nagarkurnool
+  - :name: Nandyal
+  - :name: Narasaraopet
+  - :name: Narayanavanam
+  - :name: Narayanpet
+  - :name: Narsapur
+  - :name: Narsingi
+  - :name: Narsipatnam
+  - :name: Naspur
+  - :name: Nellimaria
+  - :name: Nellore
+  - :name: Nidadavole
+  - :name: Nirmal
+  - :name: Nizamabad
+  - :name: Nuzvid
+  - :name: Omerkhan Daira
+  - :name: Ongole
+  - :name: Osmania University
+  - :name: Palacole
+  - :name: Palakurthi
+  - :name: Palasa @ Kasibugga
+  - :name: Palwancha
+  - :name: Pamur
+  - :name: Papampeta
+  - :name: Parvathipuram
+  - :name: Patancheru
+  - :name: Pedana
+  - :name: Peddapuram
+  - :name: Pitapuram
+  - :name: Ponnur
+  - :name: Proddatur
+  - :name: Punganur
+  - :name: Puttur
+  - :name: Quthbullapur
+  - :name: Rajahmundry
+  - :name: Rajam
+  - :name: Rajendranagar
+  - :name: Ramachandrapuram
+  - :name: Ramachandrapuram-Bhel Township )
+  - :name: Ramagundam
+  - :name: Ramanayyapeta
+  - :name: Ramapuram
+  - :name: Rameswaram
+  - :name: Rampachodavaram
+  - :name: Rayachoti
+  - :name: Rayadurg
+  - :name: Renigunta
+  - :name: Repalle
+  - :name: Sadasivpet
+  - :name: Salur
+  - :name: Samalkota
+  - :name: Sangareddy
+  - :name: Sarapaka
+  - :name: Sattenapalle
+  - :name: Serilingampalle
+  - :name: Siddipet
+  - :name: Singapur
+  - :name: Singarayakonda
+  - :name: Sirsilla
+  - :name: Sompeta
+  - :name: Srikakulam
+  - :name: Srikalahasti
+  - :name: Sriramnagar
+  - :name: Srisailam  Project (Rfc) Township
+  - :name: Srisailamgudem Devasthanam
+  - :name: Suryaraopeta
+  - :name: Tadepalligudem
+  - :name: Tadpatri
+  - :name: Tallapalle
+  - :name: Tandur
+  - :name: Tanuku
+  - :name: Teegalapahad
+  - :name: Tenali
+  - :name: Tiruchanur
+  - :name: Tirumala
+  - :name: Tirupati
+  - :name: Tirupati (Nma)
+  - :name: Tuni
+  - :name: Uppal Kalan
+  - :name: Upper Sileru Project Site Camp
+  - :name: Uravakonda
+  - :name: Vaparala
+  - :name: Venkatagiri
+  - :name: Vepagunta
+  - :name: Vetapalem
+  - :name: Vicarabad
+  - :name: Vijayapuri (North)
+  - :name: Vijayawada
+  - :name: Vinukonda
+  - :name: Visakhapatnam
+  - :name: Vishakhapatnam
+  - :name: Vizianagaram
+  - :name: Wanaparthi
+  - :name: Warangal
+  - :name: Yadagirigutta
+  - :name: Yellandu
+  - :name: Yemmiganur
+  - :name: Yerraguntla
+  - :name: Zahirabad
+- :name: Karnataka
+  :cities:
+  - :name: Adityapatna
+  - :name: Adyar
+  - :name: Afzalpur
+  - :name: Aland
+  - :name: Alnavar
+  - :name: Alur
+  - :name: Ambikanagara
+  - :name: Anekal
+  - :name: Ankola
+  - :name: Annigeri
+  - :name: Arkalgud
+  - :name: Arsikere
+  - :name: Athni
+  - :name: Aurad
+  - :name: Badami
+  - :name: Bagalkot
+  - :name: Bagepalli
+  - :name: Bail Hongal
+  - :name: Bajala
+  - :name: Bajpe
+  - :name: Bangalore
+  - :name: Bangarapet
+  - :name: Bankapura
+  - :name: Bannur
+  - :name: Bantwal
+  - :name: Basavakalyan
+  - :name: Basavana Bagevadi
+  - :name: Belgaum
+  - :name: Belgaum Cantonment
+  - :name: Bellary
+  - :name: Beltangadi
+  - :name: Belur
+  - :name: Belvata
+  - :name: Bhadravati
+  - :name: Bhalki
+  - :name: Bhatkal
+  - :name: Bhimarayanagudi
+  - :name: Bhogadi
+  - :name: Bidar
+  - :name: Bijapur
+  - :name: Bilgi
+  - :name: Birur
+  - :name: Bommanahalli
+  - :name: Bommasandra
+  - :name: Byadgi
+  - :name: Byatarayanapura
+  - :name: Challakere
+  - :name: Chamrajnagar
+  - :name: Channagiri
+  - :name: Channapatna
+  - :name: Channarayapattana
+  - :name: Chik Ballapur
+  - :name: Chikmagalur
+  - :name: Chiknayakanhalli
+  - :name: Chikodi
+  - :name: Chincholi
+  - :name: Chintamani
+  - :name: Chitapur
+  - :name: Chitgoppa
+  - :name: Chitradurga
+  - :name: Dandeli
+  - :name: Dargajogihalli
+  - :name: Dasarahalli
+  - :name: Davanagere
+  - :name: Devadurga
+  - :name: Devanhalli
+  - :name: Dod Ballapur
+  - :name: Donimalai Township
+  - :name: Gadag-Betigeri
+  - :name: Gajendragarh
+  - :name: Gangawati
+  - :name: Gauribidanur
+  - :name: Gokak
+  - :name: Gokak Falls
+  - :name: Gonikoppal
+  - :name: Gottikere
+  - :name: Gubbi
+  - :name: Gudibanda
+  - :name: Gulbarga
+  - :name: Guledgudda
+  - :name: Gundlupet
+  - :name: Gurmatkal
+  - :name: Haliyal
+  - :name: Hangal
+  - :name: Harihar
+  - :name: Harpanahalli
+  - :name: Hassan
+  - :name: Hatti
+  - :name: Hatti Gold Mines
+  - :name: Haveri
+  - :name: Hebbagodi
+  - :name: Hebbalu
+  - :name: Heggadadevanakote
+  - :name: Herohalli
+  - :name: Hindalgi
+  - :name: Hirekerur
+  - :name: Hiriyur
+  - :name: Holalkere
+  - :name: Holenarsipur
+  - :name: Homnabad
+  - :name: Honavar
+  - :name: Honnali
+  - :name: Hoovina Hadagalli
+  - :name: Hosanagara
+  - :name: Hosdurga
+  - :name: Hoskote
+  - :name: Hospet
+  - :name: Hubli-Dharwad
+  - :name: Hukeri
+  - :name: Hunasamaranahalli
+  - :name: Hungund
+  - :name: Hunsur
+  - :name: Ilkal
+  - :name: Indi
+  - :name: Jagalur
+  - :name: Jamkhandi
+  - :name: Jevargi
+  - :name: Jog Falls
+  - :name: Kadur
+  - :name: Kalghatgi
+  - :name: Kamalapuram
+  - :name: Kampli
+  - :name: Kanakapura
+  - :name: Kangrali (Bk)
+  - :name: Kangrali (Kh)
+  - :name: Kannur
+  - :name: Karkal
+  - :name: Karwar
+  - :name: Kengeri
+  - :name: Kerur
+  - :name: Khanapur
+  - :name: Kodigenahalli
+  - :name: Kodiyal
+  - :name: Kolar
+  - :name: Kollegal
+  - :name: Konanakunte
+  - :name: Konnur
+  - :name: Koppa
+  - :name: Koppal
+  - :name: Koratagere
+  - :name: Kotekara
+  - :name: Kothnur
+  - :name: Kotturu
+  - :name: Krishnarajanagar
+  - :name: Krishnarajapura
+  - :name: Krishnarajasagara
+  - :name: Krishnarajpet
+  - :name: Kudchi
+  - :name: Kudligi
+  - :name: Kudremukh
+  - :name: Kumta
+  - :name: Kundapura
+  - :name: Kundgol
+  - :name: Kunigal
+  - :name: Kurgunta
+  - :name: Kushalnagar
+  - :name: Kushtagi
+  - :name: Lakshmeshwar
+  - :name: Lingsugur
+  - :name: Londa
+  - :name: Maddur
+  - :name: Madhugiri
+  - :name: Madikeri
+  - :name: Magadi
+  - :name: Mahadevapura
+  - :name: Mahalingpur
+  - :name: Malavalli
+  - :name: Mallar
+  - :name: Malur
+  - :name: Mandya
+  - :name: Mangalore
+  - :name: Manvi
+  - :name: Molakalmuru
+  - :name: Mudalgi
+  - :name: Mudbidri
+  - :name: Muddebihal
+  - :name: Mudgal
+  - :name: Mudhol
+  - :name: Mudigere
+  - :name: Mudushedde
+  - :name: Mulbagal
+  - :name: Mulgund
+  - :name: Mulki
+  - :name: Mulur
+  - :name: Mundargi
+  - :name: Mundgod
+  - :name: Munirabad Project Area
+  - :name: Munnur
+  - :name: Mysore
+  - :name: Nagamangala
+  - :name: Nanjangud
+  - :name: Narasimharajapura
+  - :name: Naregal
+  - :name: Nargund
+  - :name: Navalgund
+  - :name: Nelmangala
+  - :name: Nipani
+  - :name: Pandavapura
+  - :name: Pattanagere
+  - :name: Pavagada
+  - :name: Piriyapatna
+  - :name: Pudu
+  - :name: Puttur
+  - :name: Rabkavi Banhatti
+  - :name: Raichur
+  - :name: Ramanagaram
+  - :name: Ramdurg
+  - :name: Ranibennur
+  - :name: Raybag
+  - :name: Robertson Pet
+  - :name: Ron
+  - :name: Sadalgi
+  - :name: Sagar
+  - :name: Sakleshpur
+  - :name: Saligram
+  - :name: Sandur
+  - :name: Sankeshwar
+  - :name: Sathyamangala
+  - :name: Saundatti-Yellamma
+  - :name: Savanur
+  - :name: Sedam
+  - :name: Shahabad
+  - :name: Shahabad Acc
+  - :name: Shahpur
+  - :name: Shaktinagar
+  - :name: Shiggaon
+  - :name: Shikarpur
+  - :name: Shimoga
+  - :name: Shirhatti
+  - :name: Shorapur
+  - :name: Shrirangapattana
+  - :name: Siddapur
+  - :name: Sidlaghatta
+  - :name: Sindgi
+  - :name: Sindhnur
+  - :name: Sira
+  - :name: Siralkoppa
+  - :name: Sirsi
+  - :name: Siruguppa
+  - :name: Someshwar
+  - :name: Somvarpet
+  - :name: Sorab
+  - :name: Sringeri
+  - :name: Srinivaspur
+  - :name: Sulya
+  - :name: Talikota
+  - :name: Tarikere
+  - :name: Tekkalakota
+  - :name: Terdal
+  - :name: Thokur-62
+  - :name: Thumbe
+  - :name: Tiptur
+  - :name: Tirthahalli
+  - :name: Tirumakudal-Narsipur
+  - :name: Tumkur
+  - :name: Turuvekere
+  - :name: Udupi
+  - :name: Ullal
+  - :name: Uttarahalli
+  - :name: Venkatapura
+  - :name: Vijayapura
+  - :name: Virajpet
+  - :name: Wadi
+  - :name: Wadi Acc
+  - :name: Yadgir
+  - :name: Yelahanka
+  - :name: Yelandur
+  - :name: Yelbarga
+  - :name: Yellapur
+  - :name: Yenagudde
+- :name: Jharkhand
+  :cities:
+  - :name: Adityapur
+  - :name: Amlabad
+  - :name: Angarpathar
+  - :name: Ara
+  - :name: Babua Kalan
+  - :name: Bagbera
+  - :name: Baliari
+  - :name: Balkundra
+  - :name: Bandhgora
+  - :name: Barajamda
+  - :name: Barhi
+  - :name: Barkakana
+  - :name: Barughutu
+  - :name: Barwadih
+  - :name: Basaria
+  - :name: Basukinath
+  - :name: Bermo
+  - :name: Bhagatdih
+  - :name: Bhojudih
+  - :name: Bhowrah
+  - :name: Bhuli
+  - :name: Bokaro
+  - :name: Bokaro Steel City
+  - :name: Bundu
+  - :name: Chaibasa
+  - :name: Chakradharpur
+  - :name: Chakulia
+  - :name: Chandaur
+  - :name: Chandil
+  - :name: Chandrapura
+  - :name: Chas
+  - :name: Chatra
+  - :name: Chhatatanr
+  - :name: Chhota Gobindpur
+  - :name: Chhotaputki
+  - :name: Chiria
+  - :name: Chirkunda
+  - :name: Churi
+  - :name: Daltonganj
+  - :name: Danguwapasi
+  - :name: Dari
+  - :name: Deoghar
+  - :name: Deorikalan
+  - :name: Dhanbad
+  - :name: Dhanwar
+  - :name: Dhaunsar
+  - :name: Dugda
+  - :name: Dumarkunda
+  - :name: Dumka
+  - :name: Egarkunr
+  - :name: Gadhra
+  - :name: Garhwa
+  - :name: Ghatshila
+  - :name: Ghorabandha
+  - :name: Gidi
+  - :name: Giridih
+  - :name: Gobindpur
+  - :name: Godda
+  - :name: Godhar
+  - :name: Gomoh
+  - :name: Gua
+  - :name: Gumia
+  - :name: Gumla
+  - :name: Haludbani
+  - :name: Hazaribag
+  - :name: Hesla
+  - :name: Hussainabad
+  - :name: Isri
+  - :name: Jadugora
+  - :name: Jamadoba
+  - :name: Jamshedpur
+  - :name: Jamtara
+  - :name: Jaridih Bazar
+  - :name: Jasidih
+  - :name: Jena
+  - :name: Jharia
+  - :name: Jharia Khas
+  - :name: Jhinkpani
+  - :name: Jhumri Tilaiya
+  - :name: Jorapokhar
+  - :name: Jugsalai
+  - :name: Kailudih
+  - :name: Kalikapur
+  - :name: Kandra
+  - :name: Kanke
+  - :name: Katras
+  - :name: Kedla
+  - :name: Kenduadih
+  - :name: Kharkhari
+  - :name: Kharsawan
+  - :name: Khelari
+  - :name: Khunti
+  - :name: Kiriburu
+  - :name: Kodarma
+  - :name: Kuju
+  - :name: Kurpania
+  - :name: Kustai
+  - :name: Lakarka
+  - :name: Lapanga
+  - :name: Latehar
+  - :name: Lohardaga
+  - :name: Loyabad
+  - :name: Madhupur
+  - :name: Maithon
+  - :name: Malkera
+  - :name: Mango
+  - :name: Marma
+  - :name: Meghahatuburu Forest Village
+  - :name: Mera
+  - :name: Meru
+  - :name: Mihijam
+  - :name: Mugma
+  - :name: Muri
+  - :name: Musabani
+  - :name: Nagri Kalan
+  - :name: Nirsa
+  - :name: Noamundi
+  - :name: Okni No.Ii
+  - :name: Orla
+  - :name: Pakaur
+  - :name: Palawa
+  - :name: Panchet
+  - :name: Paratdih
+  - :name: Pathardih
+  - :name: Patratu
+  - :name: Phusro
+  - :name: Pondar Kanali
+  - :name: Rajmahal
+  - :name: Ramgarh Cantonment
+  - :name: Ranchi
+  - :name: Religara Alias Pachhiari
+  - :name: Rohraband
+  - :name: Sahibganj
+  - :name: Sahnidih
+  - :name: Saraidhela
+  - :name: Sarjamda
+  - :name: Saunda
+  - :name: Seraikela
+  - :name: Sewai
+  - :name: Sijhua
+  - :name: Sijua
+  - :name: Simdega
+  - :name: Sindri
+  - :name: Sinduria
+  - :name: Sini
+  - :name: Sirka
+  - :name: Siuliban
+  - :name: Tati
+  - :name: Tenu Dam-Cum- Kathhara
+  - :name: Tisra
+  - :name: Topa
+  - :name: Topchanchi
+- :name: Kerala
+  :cities:
+  - :name: Adoor
+  - :name: Akathiyoor
+  - :name: Alappuzha
+  - :name: Aluva
+  - :name: Ancharakandy
+  - :name: Angamaly
+  - :name: Arookutty
+  - :name: Aroor
+  - :name: Attingal
+  - :name: Avinissery
+  - :name: Azhikode North
+  - :name: Azhikode South
+  - :name: Bangramanjeshwar
+  - :name: Beypore
+  - :name: Brahmakulam
+  - :name: Chala
+  - :name: Chalakudy
+  - :name: Changanassery
+  - :name: Chavakkad
+  - :name: Chelora
+  - :name: Chendamangalam
+  - :name: Chengamanad
+  - :name: Chengannur
+  - :name: Cheranallur
+  - :name: Cherthala
+  - :name: Cheruthazham
+  - :name: Cheruvannur
+  - :name: Chevvoor
+  - :name: Chirakkal
+  - :name: Chittur-Thathamangalam
+  - :name: Chockli
+  - :name: Choornikkara
+  - :name: Chowwara
+  - :name: Dharmadom
+  - :name: Edathala
+  - :name: Elayavoor
+  - :name: Eloor
+  - :name: Eranholi
+  - :name: Erattupetta
+  - :name: Feroke
+  - :name: Guruvayoor
+  - :name: Hosabettu
+  - :name: Idukki Township
+  - :name: Iringaprom
+  - :name: Irinjalakuda
+  - :name: Iriveri
+  - :name: Kadachira
+  - :name: Kadamakkudy
+  - :name: Kadirur
+  - :name: Kadungalloor
+  - :name: Kalamassery
+  - :name: Kalliasseri
+  - :name: Kalpetta
+  - :name: Kanhangad
+  - :name: Kanhirode
+  - :name: Kanjikkuzhi
+  - :name: Kannadiparamba
+  - :name: Kannapuram
+  - :name: Kannur
+  - :name: Kannur Cantonment
+  - :name: Karuvanthuruthy
+  - :name: Kasaragod
+  - :name: Kayamkulam
+  - :name: Kochi
+  - :name: Kodungallur
+  - :name: Kokkothamangalam
+  - :name: Kolazhy
+  - :name: Kollam
+  - :name: Komalapuram
+  - :name: Koothuparamba
+  - :name: Koratty
+  - :name: Kothamangalam
+  - :name: Kottayam
+  - :name: Kottayam-Malabar
+  - :name: Kottuvally
+  - :name: Kozhikode
+  - :name: Kudlu
+  - :name: Kunnamkulam
+  - :name: Kureekkad
+  - :name: Malappuram
+  - :name: Manjeri
+  - :name: Manjeshwar
+  - :name: Maradu
+  - :name: Marathakkara
+  - :name: Mattannur
+  - :name: Mavelikkara
+  - :name: Mavilayi
+  - :name: Mavoor
+  - :name: Methala
+  - :name: Muhamma
+  - :name: Mulavukad
+  - :name: Munderi
+  - :name: Muvattupuzha
+  - :name: Muzhappilangad
+  - :name: Nadathara
+  - :name: Narath
+  - :name: Nedumangad
+  - :name: Nenmenikkara
+  - :name: New Mahe
+  - :name: Neyyattinkara
+  - :name: Olavanna
+  - :name: Ottappalam
+  - :name: Paduvilayi
+  - :name: Palai
+  - :name: Palakkad
+  - :name: Palayad
+  - :name: Palissery
+  - :name: Pallikkunnu
+  - :name: Paluvai
+  - :name: Panniyannur
+  - :name: Panoor
+  - :name: Pantheeramkavu
+  - :name: Pappinisseri
+  - :name: Paravoor
+  - :name: Paravur
+  - :name: Pathanamthitta
+  - :name: Pathiriyad
+  - :name: Pattiom
+  - :name: Pavaratty
+  - :name: Payyannur
+  - :name: Perakam
+  - :name: Peralasseri
+  - :name: Peringathur
+  - :name: Perinthalmanna
+  - :name: Perumbaikad
+  - :name: Perumbavoor
+  - :name: Pinarayi
+  - :name: Ponnani
+  - :name: Pottore
+  - :name: Punalur
+  - :name: Puranattukara
+  - :name: Puthukkad
+  - :name: Puthunagaram
+  - :name: Puzhathi
+  - :name: Quilandy
+  - :name: Ramanattukara
+  - :name: Shoranur
+  - :name: Taliparamba
+  - :name: Thaikkad
+  - :name: Thalassery
+  - :name: Thiruvalla
+  - :name: Thiruvananthapuram
+  - :name: Thiruvankulam
+  - :name: Thodupuzha
+  - :name: Thottada
+  - :name: Thrippunithura
+  - :name: Thrissur
+  - :name: Tirur
+  - :name: Trivandrum
+  - :name: Udma
+  - :name: Vadakara
+  - :name: Vaikom
+  - :name: Valapattanam
+  - :name: Vallachira
+  - :name: Varam
+  - :name: Varappuzha
+  - :name: Varkala
+  - :name: Vazhakkala
+  - :name: Venmanad
+  - :name: Villiappally
+- :name: West Bengal
+  :cities:
+  - :name: Adra
+  - :name: Ahmadpur
+  - :name: Aiho
+  - :name: Aistala
+  - :name: Alipurduar
+  - :name: Alipurduar Rly.Jnc.
+  - :name: Alpur
+  - :name: Amkula
+  - :name: Amodghata
+  - :name: Amtala
+  - :name: Andul
+  - :name: Anksa
+  - :name: Ankurhati
+  - :name: Anup Nagar
+  - :name: Arambag
+  - :name: Argari
+  - :name: Arra
+  - :name: Asansol
+  - :name: Ashoknagar Kalyangarh
+  - :name: Aurangabad
+  - :name: Bablari Dewanganj
+  - :name: Badhagachhi
+  - :name: Baduria
+  - :name: Bagnan
+  - :name: Baharampur
+  - :name: Bahirgram
+  - :name: Bahula
+  - :name: Baidyabati
+  - :name: Bairatisal
+  - :name: Balaram Pota
+  - :name: Balarampur
+  - :name: Balichak
+  - :name: Ballavpur
+  - :name: Bally
+  - :name: Balurghat
+  - :name: Bamunari
+  - :name: Banarhat Tea Garden
+  - :name: Bangaon
+  - :name: Bankra
+  - :name: Bankura
+  - :name: Bansberia
+  - :name: Banshra
+  - :name: Banupur
+  - :name: Bara Bamonia
+  - :name: Barabazar
+  - :name: Baranagar
+  - :name: Barasat
+  - :name: Barddhaman
+  - :name: Barijhati
+  - :name: Barjora
+  - :name: Barrackpur
+  - :name: Barrackpur Cantonment
+  - :name: Baruihuda
+  - :name: Baruipur
+  - :name: Basirhat
+  - :name: Baska
+  - :name: Begampur
+  - :name: Beldanga
+  - :name: Beldubi
+  - :name: Belebathan
+  - :name: Beliatore
+  - :name: Bhadreswar
+  - :name: Bhandardaha
+  - :name: Bhangar Raghunathpur
+  - :name: Bhangri Pratham Khanda
+  - :name: Bhanowara
+  - :name: Bhatpara
+  - :name: Bholar Dabri
+  - :name: Bidhan Nagar
+  - :name: Bikihakola
+  - :name: Bilandapur
+  - :name: Bilpahari
+  - :name: Bipra  Noapara
+  - :name: Birlapur
+  - :name: Birnagar
+  - :name: Bishnupur
+  - :name: Bolpur
+  - :name: Bowali
+  - :name: Budge Budge
+  - :name: Cart Road
+  - :name: Chachanda
+  - :name: Chak Bankola
+  - :name: Chak Bansberia
+  - :name: Chak Enayetnagar
+  - :name: Chak Kashipur
+  - :name: Chakapara
+  - :name: Chakdaha
+  - :name: Champdani
+  - :name: Chamrail
+  - :name: Chandannagar
+  - :name: Chandpur
+  - :name: Chandrakona
+  - :name: Chapari
+  - :name: Chapui
+  - :name: Char Brahmanagar
+  - :name: Char Maijdia
+  - :name: Charka
+  - :name: Chata Kalikapur
+  - :name: Chechakhata
+  - :name: Chelad
+  - :name: Chhora
+  - :name: Chikrand
+  - :name: Chittaranjan
+  - :name: Contai
+  - :name: Cooper's Camp
+  - :name: Dafahat
+  - :name: Dainhat
+  - :name: Dakshin Baguan
+  - :name: Dakshin Jhapardaha
+  - :name: Dakshin Rajyadharpur
+  - :name: Dalkhola
+  - :name: Dalurband
+  - :name: Darappur
+  - :name: Darjiling
+  - :name: Debipur
+  - :name: Deuli
+  - :name: Dhakuria
+  - :name: Dhandadihi
+  - :name: Dhanyakuria
+  - :name: Dharmapur
+  - :name: Dhatrigram
+  - :name: Dhuilya
+  - :name: Dhulian
+  - :name: Dhupguri
+  - :name: Dhusaripara
+  - :name: Diamond Harbour
+  - :name: Dignala
+  - :name: Dinhata
+  - :name: Domjur
+  - :name: Dubrajpur
+  - :name: Dumdum
+  - :name: Durgapur
+  - :name: Durllabhganj
+  - :name: Egra
+  - :name: Eksara
+  - :name: English Bazar
+  - :name: Falakata
+  - :name: Farrakka Barrage Township
+  - :name: Fatellapur
+  - :name: Gabberia
+  - :name: Gairkata
+  - :name: Gangarampur
+  - :name: Garalgachha
+  - :name: Garshyamnagar
+  - :name: Garulia
+  - :name: Gayespur
+  - :name: Ghatal
+  - :name: Ghorsala
+  - :name: Goaljan
+  - :name: Goasafat
+  - :name: Gobardanga
+  - :name: Gopalpur
+  - :name: Gopinathpur
+  - :name: Gora Bazar
+  - :name: Guma
+  - :name: Guriahati
+  - :name: Guskara
+  - :name: Habra
+  - :name: Haldia
+  - :name: Haldibari
+  - :name: Halisahar
+  - :name: Haora
+  - :name: Harharia Chak
+  - :name: Haripur
+  - :name: Harishpur
+  - :name: Hatgachha
+  - :name: Hatsimla
+  - :name: Hijuli
+  - :name: Hindusthan Cables Town
+  - :name: Hugli-Chinsurah
+  - :name: Ichhapur Defence  Estate
+  - :name: Islampur
+  - :name: Jafarpur
+  - :name: Jagadanandapur
+  - :name: Jagadishpur
+  - :name: Jagtaj
+  - :name: Jala Kendua
+  - :name: Jalpaiguri
+  - :name: Jamuria
+  - :name: Jangipur
+  - :name: Jaygaon
+  - :name: Jaynagar Mazilpur
+  - :name: Jemari
+  - :name: Jemari  (J.K. Nagar Township)
+  - :name: Jetia
+  - :name: Jhalda
+  - :name: Jhargram
+  - :name: Jhorhat
+  - :name: Jiaganj Azimganj
+  - :name: Jot Kamal
+  - :name: Kachu Pukur
+  - :name: Kajora
+  - :name: Kakdihi
+  - :name: Kalara
+  - :name: Kaliaganj
+  - :name: Kalimpong
+  - :name: Kalna
+  - :name: Kalyani
+  - :name: Kamarhati
+  - :name: Kanaipur
+  - :name: Kanchrapara
+  - :name: Kandi
+  - :name: Kankuria
+  - :name: Kantlia
+  - :name: Kanyanagar
+  - :name: Karimpur
+  - :name: Kasba
+  - :name: Kasim Bazar
+  - :name: Katwa
+  - :name: Kaugachhi
+  - :name: Kenda
+  - :name: Kendra Khottamdi
+  - :name: Kendua
+  - :name: Kesabpur
+  - :name: Khagrabari
+  - :name: Khalia
+  - :name: Khalor
+  - :name: Khandra
+  - :name: Khantora
+  - :name: Kharagpur
+  - :name: Kharagpur Rly. Settlement
+  - :name: Kharar
+  - :name: Khardaha
+  - :name: Kharimala Khagrabari
+  - :name: Kharsarai
+  - :name: Khodarampur
+  - :name: Koch Bihar
+  - :name: Kodalia
+  - :name: Kolaghat
+  - :name: Kolkata
+  - :name: Konardihi
+  - :name: Konnagar
+  - :name: Krishnanagar
+  - :name: Krishnapur
+  - :name: Kshidirpur
+  - :name: Kshirpai
+  - :name: Kulihanda
+  - :name: Kulti
+  - :name: Kunustara
+  - :name: Kurseong
+  - :name: Madanpur
+  - :name: Madhusudanpur
+  - :name: Madhyamgram
+  - :name: Maheshtala
+  - :name: Mahiari
+  - :name: Mahira
+  - :name: Mainaguri
+  - :name: Makardaha
+  - :name: Mal
+  - :name: Mandarbani
+  - :name: Manikpur
+  - :name: Mansinhapur
+  - :name: Maslandapur
+  - :name: Mathabhanga
+  - :name: Medinipur
+  - :name: Mekliganj
+  - :name: Memari
+  - :name: Mirik
+  - :name: Monoharpur
+  - :name: Mrigala
+  - :name: Muragachha
+  - :name: Murgathaul
+  - :name: Murshidabad
+  - :name: Nabadwip
+  - :name: Nabagram
+  - :name: Nabagram Colony
+  - :name: Nabgram
+  - :name: Nachhratpur Katabari
+  - :name: Naihati
+  - :name: Nasra
+  - :name: Natibpur
+  - :name: Naupala
+  - :name: Nebadhai Duttapukur
+  - :name: New Barrackpur
+  - :name: Nibra
+  - :name: Nokpul
+  - :name: North Barrackpur
+  - :name: North Dumdum
+  - :name: Old Maldah
+  - :name: Ondal
+  - :name: Pairagachha
+  - :name: Palashban
+  - :name: Panchla
+  - :name: Panchpara
+  - :name: Pandua
+  - :name: Pangachhiya (B)
+  - :name: Paniara
+  - :name: Panihati
+  - :name: Panuhat
+  - :name: Par Beliya
+  - :name: Parashkol
+  - :name: Parasia
+  - :name: Parbbatipur
+  - :name: Paschim  Jitpur
+  - :name: Paschim Punropara
+  - :name: Pattabong Tea Garden
+  - :name: Patuli
+  - :name: Patulia
+  - :name: Phulia
+  - :name: Podara
+  - :name: Prayagpur
+  - :name: Pujali
+  - :name: Purba Tajpur
+  - :name: Puruliya
+  - :name: Raghudebbati
+  - :name: Raghunathchak
+  - :name: Raghunathpur
+  - :name: Raghunathpur (Ps-Dankuni)
+  - :name: Raghunathpur (Ps-Magra)
+  - :name: Raigachhi
+  - :name: Raiganj
+  - :name: Rajarhat Gopalpur
+  - :name: Rajpur Sonarpur
+  - :name: Ramchandrapur
+  - :name: Ramjibanpur
+  - :name: Ramnagar
+  - :name: Rampurhat
+  - :name: Ranaghat
+  - :name: Raniganj
+  - :name: Ratibati
+  - :name: Rishra
+  - :name: Ruiya
+  - :name: S.T. Power Project Town
+  - :name: Sadpur
+  - :name: Sahajadpur
+  - :name: Sahapur
+  - :name: Sainthia
+  - :name: Salap
+  - :name: Sankarpur
+  - :name: Sankrail
+  - :name: Santipur
+  - :name: Santoshpur
+  - :name: Sarenga
+  - :name: Sarpi
+  - :name: Satigachha
+  - :name: Serampore
+  - :name: Serpur
+  - :name: Shankhanagar
+  - :name: Siduli
+  - :name: Siliguri
+  - :name: Simla
+  - :name: Singur
+  - :name: Sirsha
+  - :name: Sobhaganj
+  - :name: Sonamukhi
+  - :name: Sonatikiri
+  - :name: South Dumdum
+  - :name: Srikantabati
+  - :name: Srirampur
+  - :name: Sukdal
+  - :name: Suri
+  - :name: Taherpur
+  - :name: Taki
+  - :name: Talbandha
+  - :name: Tamluk
+  - :name: Tarakeswar
+  - :name: Tentulkuli
+  - :name: Titagarh
+  - :name: Tufanganj
+  - :name: Ukhra
+  - :name: Uluberia
+  - :name: Uttar Bagdogra
+  - :name: Uttar Durgapur
+  - :name: Uttar Goara
+  - :name: Uttar Kalas
+  - :name: Uttar Kamakhyaguri
+  - :name: Uttar Latabari
+  - :name: Uttar Mahammadpur
+  - :name: Uttar Pirpur
+  - :name: Uttar Raypur
+  - :name: Uttarpara Kotrung
+- :name: Madhya Pradesh
+  :cities:
+  - :name: Agar
+  - :name: Ajaigarh
+  - :name: Akoda
+  - :name: Akodia
+  - :name: Alampur
+  - :name: Alirajpur
+  - :name: Alot
+  - :name: Amanganj
+  - :name: Amarkantak
+  - :name: Amarpatan
+  - :name: Amarwara
+  - :name: Ambada
+  - :name: Ambah
+  - :name: Amla
+  - :name: Amlai
+  - :name: Anjad
+  - :name: Antari
+  - :name: Anuppur
+  - :name: Aron
+  - :name: Ashok Nagar
+  - :name: Ashta
+  - :name: Babai
+  - :name: Bada Malhera
+  - :name: Badagaon
+  - :name: Badagoan
+  - :name: Badarwas
+  - :name: Badawada
+  - :name: Badi
+  - :name: Badkuhi
+  - :name: Badnagar
+  - :name: Badnawar
+  - :name: Badod
+  - :name: Badoda
+  - :name: Badra
+  - :name: Bagh
+  - :name: Bagli
+  - :name: Baihar
+  - :name: Baikunthpur
+  - :name: Balaghat
+  - :name: Baldeogarh
+  - :name: Bamhani
+  - :name: Bamor
+  - :name: Bamora
+  - :name: Banda
+  - :name: Bangawan
+  - :name: Bansatar Kheda
+  - :name: Baraily
+  - :name: Barela
+  - :name: Barghat
+  - :name: Barhi
+  - :name: Barigarh
+  - :name: Barwaha
+  - :name: Barwani
+  - :name: Basoda
+  - :name: Begamganj
+  - :name: Beohari
+  - :name: Berasia
+  - :name: Betma
+  - :name: Betul
+  - :name: Betul-Bazar
+  - :name: Bhainsdehi
+  - :name: Bhamodi
+  - :name: Bhander
+  - :name: Bhanpura
+  - :name: Bharveli
+  - :name: Bhaurasa
+  - :name: Bhavra
+  - :name: Bhedaghat
+  - :name: Bhikangaon
+  - :name: Bhilakhedi
+  - :name: Bhind
+  - :name: Bhitarwar
+  - :name: Bhopal
+  - :name: Biaora
+  - :name: Bijawar
+  - :name: Bijeypur
+  - :name: Bijuri
+  - :name: Bilaua
+  - :name: Bilpura
+  - :name: Bina Etawa
+  - :name: Bina Rly Colony
+  - :name: Birsinghpur
+  - :name: Boda
+  - :name: Budhni
+  - :name: Burhanpur
+  - :name: Burhar
+  - :name: Buxwaha
+  - :name: Chachaura-Binaganj
+  - :name: Chakghat
+  - :name: Chandameta-Butaria
+  - :name: Chanderi
+  - :name: Chandia
+  - :name: Chandla
+  - :name: Chaurai Khas
+  - :name: Chhatarpur
+  - :name: Chhindwara
+  - :name: Chhota Chhindwara (Gotegaon)
+  - :name: Chichli
+  - :name: Chitrakoot
+  - :name: Churhat
+  - :name: Daboh
+  - :name: Dabra
+  - :name: Damoh
+  - :name: Damua
+  - :name: Datia
+  - :name: Deodara
+  - :name: Deori
+  - :name: Depalpur
+  - :name: Devendranagar
+  - :name: Devhara
+  - :name: Dewas
+  - :name: Dhamnod
+  - :name: Dhana
+  - :name: Dhanpuri
+  - :name: Dhar
+  - :name: Dharampuri
+  - :name: Dighawani
+  - :name: Diken
+  - :name: Dindori
+  - :name: Dola
+  - :name: Dongar Parasia
+  - :name: Dumar Kachhar
+  - :name: G.C.F Jabalpur
+  - :name: Gadarwara
+  - :name: Gairatganj
+  - :name: Garhakota
+  - :name: Garhi-Malhara
+  - :name: Garoth
+  - :name: Ghansor
+  - :name: Ghuwara
+  - :name: Gogapur
+  - :name: Gohad
+  - :name: Gormi
+  - :name: Govindgarh
+  - :name: Guna
+  - :name: Gurh
+  - :name: Gwalior
+  - :name: Hanumana
+  - :name: Harda
+  - :name: Harpalpur
+  - :name: Harrai
+  - :name: Harsud
+  - :name: Hatod
+  - :name: Hatpipalya
+  - :name: Hatta
+  - :name: Hindoria
+  - :name: Hirapur
+  - :name: Hoshangabad
+  - :name: Ichhawar
+  - :name: Iklehra
+  - :name: Indergarh
+  - :name: Indore
+  - :name: Isagarh
+  - :name: Itarsi
+  - :name: Jabalpur
+  - :name: Jabalpur Cantt.
+  - :name: Jaisinghnagar
+  - :name: Jaithari
+  - :name: Jaitwara
+  - :name: Jamai
+  - :name: Jaora
+  - :name: Jata Chhapar
+  - :name: Jatara
+  - :name: Jawad
+  - :name: Jawar
+  - :name: Jeron Khalsa
+  - :name: Jhabua
+  - :name: Jhundpura
+  - :name: Jiran
+  - :name: Jirapur
+  - :name: Jobat
+  - :name: Joura
+  - :name: Kailaras
+  - :name: Kakarhati
+  - :name: Kali Chhapar
+  - :name: Kanad
+  - :name: Kannod
+  - :name: Kantaphod
+  - :name: Kareli
+  - :name: Karera
+  - :name: Kari
+  - :name: Karnawad
+  - :name: Karrapur
+  - :name: Kasrawad
+  - :name: Katangi
+  - :name: Kelhauri(Chachai)
+  - :name: Khachrod
+  - :name: Khajuraho
+  - :name: Khand(Bansagar)
+  - :name: Khandwa
+  - :name: Khaniyadhana
+  - :name: Khargapur
+  - :name: Khargone
+  - :name: Khategaon
+  - :name: Khetia
+  - :name: Khilchipur
+  - :name: Khirkiya
+  - :name: Khujner
+  - :name: Khurai
+  - :name: Kolaras
+  - :name: Kotar
+  - :name: Kothi
+  - :name: Kotma
+  - :name: Kukshi
+  - :name: Kumbhraj
+  - :name: Kurwai
+  - :name: Kymore
+  - :name: Lahar
+  - :name: Lakhnadon
+  - :name: Lateri
+  - :name: Laundi
+  - :name: Lidhorakhas
+  - :name: Lodhikheda
+  - :name: Loharda
+  - :name: Machalpur
+  - :name: Maharajpur
+  - :name: Maheshwar
+  - :name: Mahidpur
+  - :name: Maihar
+  - :name: Majholi
+  - :name: Makronia
+  - :name: Maksi
+  - :name: Malaj Khand
+  - :name: Malhargarh
+  - :name: Manasa
+  - :name: Manawar
+  - :name: Mandav
+  - :name: Mandideep
+  - :name: Mandla
+  - :name: Mandleshwar
+  - :name: Mandsaur
+  - :name: Manegaon
+  - :name: Mangawan
+  - :name: Manglaya Sadak
+  - :name: Manpur
+  - :name: Mau
+  - :name: Mauganj
+  - :name: Meghnagar
+  - :name: Mehara Gaon
+  - :name: Mehgaon
+  - :name: Mhow Cantt.
+  - :name: Mhowgaon
+  - :name: Mihona
+  - :name: Mohgaon
+  - :name: Morar Cantt.
+  - :name: Morena
+  - :name: Multai
+  - :name: Mundi
+  - :name: Mungaoli
+  - :name: Murwara (Katni)
+  - :name: Nagda
+  - :name: Nagod
+  - :name: Nagri
+  - :name: Nai Garhi
+  - :name: Nainpur
+  - :name: Nalkheda
+  - :name: Namli
+  - :name: Narayangarh
+  - :name: Narsimhapur
+  - :name: Narsinghgarh
+  - :name: Narwar
+  - :name: Nasrullaganj
+  - :name: Naudhia
+  - :name: Neemuch
+  - :name: Nepanagar
+  - :name: Neuton Chikhli Kalan
+  - :name: Niwari
+  - :name: Nowgaon
+  - :name: Nowrozabad(Khodargama)
+  - :name: O.F.Khamaria
+  - :name: Obedullaganj
+  - :name: Omkareshwar
+  - :name: Orachha
+  - :name: Ordinance Factory Itarsi
+  - :name: Pachmarhi Cantt
+  - :name: Pachore
+  - :name: Pal Chourai
+  - :name: Palda
+  - :name: Palera
+  - :name: Pali
+  - :name: Panagar
+  - :name: Panara
+  - :name: Pandhana
+  - :name: Pandhurna
+  - :name: Panna
+  - :name: Pansemal
+  - :name: Pasan
+  - :name: Patan
+  - :name: Patharia
+  - :name: Pawai
+  - :name: Petlawad
+  - :name: Phuphkalan
+  - :name: Pichhore
+  - :name: Pipariya
+  - :name: Piploda
+  - :name: Piplya Mandi
+  - :name: Pithampur
+  - :name: Polay Kalan
+  - :name: Porsa
+  - :name: Prithvipur
+  - :name: Raghogarh -Vijaypur
+  - :name: Rahatgarh
+  - :name: Raisen
+  - :name: Rajakhedi
+  - :name: Rajgarh
+  - :name: Rajnagar
+  - :name: Rajpur
+  - :name: Rampur Baghelan
+  - :name: Rampur Naikin
+  - :name: Rampura
+  - :name: Ranapur
+  - :name: Ratangarh
+  - :name: Ratlam
+  - :name: Ratlam Rly. Colony (Ratlam Kasba)
+  - :name: Rau
+  - :name: Rehli
+  - :name: Rehti
+  - :name: Rewa
+  - :name: Runji Gautampura
+  - :name: Sabalgarh
+  - :name: Sagar
+  - :name: Sagar Cantt.
+  - :name: Sailana
+  - :name: Sanawad
+  - :name: Sanchi
+  - :name: Sarangpur
+  - :name: Sardarpur
+  - :name: Sarni
+  - :name: Satai
+  - :name: Satna
+  - :name: Satwas
+  - :name: Sausar
+  - :name: Sawer
+  - :name: Sehore
+  - :name: Semaria
+  - :name: Sendhwa
+  - :name: Seondha
+  - :name: Seoni
+  - :name: Seoni Malwa
+  - :name: Sethia
+  - :name: Shahdol
+  - :name: Shahgarh
+  - :name: Shahpur
+  - :name: Shahpura
+  - :name: Shajapur
+  - :name: Shamgarh
+  - :name: Sheopur
+  - :name: Shivpuri
+  - :name: Shujalpur
+  - :name: Sidhi
+  - :name: Sihora
+  - :name: Singoli
+  - :name: Singrauli
+  - :name: Sinhasa
+  - :name: Sirgora
+  - :name: Sirmaur
+  - :name: Sironj
+  - :name: Sitamau
+  - :name: Sohagpur
+  - :name: Sonkatch
+  - :name: Soyatkalan
+  - :name: Suhagi
+  - :name: Sultanpur
+  - :name: Susner
+  - :name: Suthaliya
+  - :name: Tal
+  - :name: Talen
+  - :name: Tarana
+  - :name: Taricharkalan
+  - :name: Tekanpur
+  - :name: Tendu Kheda
+  - :name: Teonthar
+  - :name: Thandla
+  - :name: Tikamgarh
+  - :name: Timarni
+  - :name: Tirodi
+  - :name: Udaipura
+  - :name: Ujjain
+  - :name: Ukwa
+  - :name: Umaria
+  - :name: Unchehara
+  - :name: Unhel
+  - :name: Vehicle Fac. Jabalpur
+  - :name: Vidisha
+  - :name: Vijayraghavgarh
+  - :name: Wara Seoni
+- :name: Tripura
+  :cities:
+  - :name: Agartala
+  - :name: Amarpur
+  - :name: Ambassa
+  - :name: Badharghat
+  - :name: Belonia
+  - :name: Dharmanagar
+  - :name: Gakulnagar
+  - :name: Gandhigram
+  - :name: Indranagar
+  - :name: Jogendranagar
+  - :name: Kailasahar
+  - :name: Kamalpur
+  - :name: Kanchanpur
+  - :name: Khowai
+  - :name: Kumarghat
+  - :name: Kunjaban
+  - :name: Narsingarh
+  - :name: Pratapgarh
+  - :name: Ranirbazar
+  - :name: Sabroom
+  - :name: Sonamura
+  - :name: Teliamura
+  - :name: Udaipur
+- :name: Chhattisgarh
+  :cities:
+  - :name: Ahiwara
+  - :name: Akaltara
+  - :name: Ambagarh Chowki
+  - :name: Ambikapur
+  - :name: Arang
+  - :name: Bade Bacheli
+  - :name: Bagbahara
+  - :name: Baikunthpur
+  - :name: Balod
+  - :name: Baloda
+  - :name: Baloda Bazar
+  - :name: Banarsi
+  - :name: Basna
+  - :name: Bemetra
+  - :name: Bhanpuri
+  - :name: Bhatapara
+  - :name: Bhatgaon
+  - :name: Bhilai Charoda
+  - :name: Bhilai Nagar
+  - :name: Bilaspur
+  - :name: Bilha
+  - :name: Birgaon
+  - :name: Bodri
+  - :name: Champa
+  - :name: Chharchha
+  - :name: Chhuikhadan
+  - :name: Chirmiri
+  - :name: Dalli-Rajhara
+  - :name: Dantewada
+  - :name: Deori
+  - :name: Dhamdha
+  - :name: Dhamtari
+  - :name: Dharamjaigarh
+  - :name: Dipka
+  - :name: Dongargaon
+  - :name: Dongragarh
+  - :name: Durg
+  - :name: Frezarpur
+  - :name: Gandai
+  - :name: Gaurella
+  - :name: Geedam
+  - :name: Gharghoda
+  - :name: Gobranawapara
+  - :name: Gogaon
+  - :name: Hatkachora
+  - :name: Jagdalpur
+  - :name: Jamul
+  - :name: Jashpur Nagar
+  - :name: Jhagrakhand
+  - :name: Kanker
+  - :name: Katghora
+  - :name: Kawardha
+  - :name: Khairagarh
+  - :name: Khamhria
+  - :name: Kharod
+  - :name: Kharsia
+  - :name: Khongapani
+  - :name: Kirandul
+  - :name: Kondagaon
+  - :name: Korba
+  - :name: Kota
+  - :name: Kumhari
+  - :name: Kurud
+  - :name: Lingiyadih
+  - :name: Lormi
+  - :name: Mahasamund
+  - :name: Manendragarh
+  - :name: Mehmand
+  - :name: Mowa
+  - :name: Mungeli
+  - :name: Naila Janjgir
+  - :name: Namna Kalan
+  - :name: Naya Baradwar
+  - :name: Pandariya
+  - :name: Patan
+  - :name: Pathalgaon
+  - :name: Pendra
+  - :name: Phunderdihari
+  - :name: Pithora
+  - :name: Raigarh
+  - :name: Raipur
+  - :name: Rajgamar
+  - :name: Rajnandgaon
+  - :name: Ramanujganj
+  - :name: Ratanpur
+  - :name: Sakti
+  - :name: Saraipali
+  - :name: Sarangarh
+  - :name: Shivrinarayan
+  - :name: Simga
+  - :name: Sirgiti
+  - :name: Surajpur
+  - :name: Takhatpur
+  - :name: Telgaon
+  - :name: Tilda Newra
+  - :name: Urla
+  - :name: Vishrampur
+- :name: Mizoram
+  :cities:
+  - :name: Aizawl
+  - :name: Bairabi
+  - :name: Biate
+  - :name: Champhai
+  - :name: Darlawn
+  - :name: Hnahthial
+  - :name: Khawhai
+  - :name: Khawzawl
+  - :name: Kolasib
+  - :name: Lengpui
+  - :name: Lunglei
+  - :name: Mamit
+  - :name: N. Vanlaiphai
+  - :name: N.Kawnpui
+  - :name: Saiha
+  - :name: Sairang
+  - :name: Saitual
+  - :name: Serchhip
+  - :name: Thenzawl
+  - :name: Tlabung
+  - :name: Vairengte
+  - :name: Zawlnuam
+- :name: Goa
+  :cities:
+  - :name: Aldona
+  - :name: Aquem
+  - :name: Bambolim
+  - :name: Bandora
+  - :name: Benaulim
+  - :name: Bicholim
+  - :name: Calangute
+  - :name: Calapor
+  - :name: Canacona
+  - :name: Candolim
+  - :name: Carapur
+  - :name: Chicalim
+  - :name: Chimbel
+  - :name: Chinchinim
+  - :name: Colvale
+  - :name: Cuncolim
+  - :name: Curchorem Cacora
+  - :name: Curti
+  - :name: Davorlim
+  - :name: Goa Velha
+  - :name: Guirim
+  - :name: Mapusa
+  - :name: Margao
+  - :name: Mormugao
+  - :name: Navelim
+  - :name: Pale
+  - :name: Panaji
+  - :name: Parcem
+  - :name: Penha-De-Franca
+  - :name: Pernem
+  - :name: Ponda
+  - :name: Quepem
+  - :name: Queula
+  - :name: Reis Magos
+  - :name: Saligao
+  - :name: Sancoale
+  - :name: Sanguem
+  - :name: Sanquelim
+  - :name: Sanvordem
+  - :name: Sao Jose-De-Areal
+  - :name: Siolim
+  - :name: Socorro (Serula)
+  - :name: Valpoi
+  - :name: Varca
+- :name: Delhi
+  :cities:
+  - :name: Ali Pur
+  - :name: Asola
+  - :name: Babar Pur
+  - :name: Bankner
+  - :name: Bawana
+  - :name: Begum Pur
+  - :name: Bhalswa Jahangir Pur
+  - :name: Bhati
+  - :name: Burari
+  - :name: Chhawla
+  - :name: Chilla Saroda Bangar
+  - :name: Dallo Pura
+  - :name: Dayal Pur
+  - :name: Delhi Cantt.
+  - :name: Delhi Municipal Corporation (U)
+  - :name: Deoli
+  - :name: Gharoli
+  - :name: Gharonda Neemka Bangar Alias Patpar Ganj
+  - :name: Gheora
+  - :name: Ghitorni
+  - :name: Ghoga
+  - :name: Gokal Pur
+  - :name: Hastsal
+  - :name: Jaffrabad
+  - :name: Jharoda Majra Burari
+  - :name: Jiwan Pur Alias Johri Pur
+  - :name: Jona Pur
+  - :name: Kanjhawala
+  - :name: Kapas Hera
+  - :name: Karawal Nagar
+  - :name: Khajoori Khas
+  - :name: Khera Khurd
+  - :name: Kirari Suleman Nagar
+  - :name: Kondli
+  - :name: Libas Pur
+  - :name: Mirpur Turk
+  - :name: Mithe Pur
+  - :name: Molar Band
+  - :name: Mundka
+  - :name: Mustafabad
+  - :name: Nangal Dewat
+  - :name: Nangal Thakran
+  - :name: Nangloi Jat
+  - :name: New Delhi
+  - :name: New Delhi Municipal Council
+  - :name: Pehlad Pur Bangar
+  - :name: Pooth Kalan
+  - :name: Pooth Khurd
+  - :name: Pul Pehlad
+  - :name: Quammruddin Nagar
+  - :name: Rajokri
+  - :name: Roshan Pura Alias Dichaon Khurd
+  - :name: Sadat Pur Gujran
+  - :name: Sahibabad Daulat Pur
+  - :name: Saidul Ajaib
+  - :name: Sambhalka
+  - :name: Sanoth
+  - :name: Siras Pur
+  - :name: Sultan Pur
+  - :name: Sultan Pur Majra
+  - :name: Taj Pul
+  - :name: Tigri
+  - :name: Ziauddin Pur
+- :name: Uttaranchal
+  :cities:
+  - :name: Almora
+  - :name: Badrinathpuri
+  - :name: Bageshwar
+  - :name: Bajpur
+  - :name: Banbasa
+  - :name: Bandia
+  - :name: Barkot
+  - :name: Bharat Heavy Electrical Limited Ranipur
+  - :name: Bhimtal
+  - :name: Bhowali
+  - :name: Chakrata
+  - :name: Chamba
+  - :name: Chamoli Gopeshwar
+  - :name: Champawat
+  - :name: Clement Town
+  - :name: Dev Prayag
+  - :name: Dhaluwala
+  - :name: Dhandera
+  - :name: Dharchula
+  - :name: Dharchula Dehat
+  - :name: Didihat
+  - :name: Dineshpur
+  - :name: Dogadda
+  - :name: Doiwala
+  - :name: Dwarahat
+  - :name: Fri And College Area
+  - :name: Gadarpur
+  - :name: Gangotri
+  - :name: Gochar
+  - :name: Haldwani-Cum-Kathgodam
+  - :name: Hardwar
+  - :name: Herbertpur
+  - :name: Jaspur
+  - :name: Jhabrera
+  - :name: Joshimath
+  - :name: Kachnal Gosain
+  - :name: Kaladungi
+  - :name: Karn Prayag
+  - :name: Kashipur
+  - :name: Kashirampur
+  - :name: Kedarnath
+  - :name: Kela Khera
+  - :name: Khatima
+  - :name: Kichha
+  - :name: Kirtinagar
+  - :name: Kotdwara
+  - :name: Laksar
+  - :name: Lalkuan
+  - :name: Landaura
+  - :name: Landour
+  - :name: Lansdowne
+  - :name: Lohaghat
+  - :name: Mahua Dabra Haripura
+  - :name: Mahua Kheraganj
+  - :name: Manglaur
+  - :name: Mohanpur Mohammadpur
+  - :name: Muni Ki Reti
+  - :name: Mussoori
+  - :name: Nagla
+  - :name: Nainital
+  - :name: Nand Prayag
+  - :name: Narendra Nagar
+  - :name: Pauri
+  - :name: Pithoragarh
+  - :name: Pratitnagar
+  - :name: Raipur
+  - :name: Ramnagar
+  - :name: Ranikhet
+  - :name: Rishikesh
+  - :name: Roorkee
+  - :name: Rudra Prayag
+  - :name: Rudrapur
+  - :name: Shaktigarh
+  - :name: Sitarganj
+  - :name: Srinagar
+  - :name: Sultanpur
+  - :name: Tanakpur
+  - :name: Tehri
+  - :name: Uttarkashi
+  - :name: Veerbhadra
+  - :name: Vikasnagar
+- :name: Arunachal Pradesh
+  :cities:
+  - :name: Along
+  - :name: Basar
+  - :name: Bomdila
+  - :name: Changlang
+  - :name: Daporijo
+  - :name: Deomali
+  - :name: Itanagar
+  - :name: Jairampur
+  - :name: Khonsa
+  - :name: Naharlagun
+  - :name: Namsai
+  - :name: Pasighat
+  - :name: Roing
+  - :name: Seppa
+  - :name: Tawang
+  - :name: Tezu
+  - :name: Ziro
+- :name: Bihar
+  :cities:
+  - :name: Amarpur
+  - :name: Araria
+  - :name: Areraj
+  - :name: Arrah
+  - :name: Asarganj
+  - :name: Aurangabad
+  - :name: Bagaha
+  - :name: Bahadurganj
+  - :name: Bairgania
+  - :name: Bakhtiarpur
+  - :name: Banka
+  - :name: Banmankhi Bazar
+  - :name: Barahiya
+  - :name: Barauli
+  - :name: Barauni Ioc Township
+  - :name: Barbigha
+  - :name: Barh
+  - :name: Begusarai
+  - :name: Behea
+  - :name: Belsand
+  - :name: Bettiah
+  - :name: Bhabua
+  - :name: Bhagalpur (M.Corp)
+  - :name: Bihar
+  - :name: Bikramganj
+  - :name: Birpur
+  - :name: Bodh Gaya
+  - :name: Buxar
+  - :name: Chakia
+  - :name: Chanpatia
+  - :name: Chapra
+  - :name: Colgong
+  - :name: Dalsinghsarai
+  - :name: Darbhanga
+  - :name: Daudnagar
+  - :name: Dehri
+  - :name: Dhaka
+  - :name: Dighwara
+  - :name: Dinapur Cantt.
+  - :name: Dinapur Nizamat
+  - :name: Dumra
+  - :name: Dumraon
+  - :name: Fatwah
+  - :name: Forbesganj
+  - :name: Gaya
+  - :name: Ghoghardiha
+  - :name: Gogri Jamalpur
+  - :name: Gopalganj
+  - :name: Habibpur
+  - :name: Hajipur
+  - :name: Hilsa
+  - :name: Hisua
+  - :name: Islampur
+  - :name: Jagdishpur
+  - :name: Jainagar
+  - :name: Jamalpur
+  - :name: Jamhaur
+  - :name: Jamui
+  - :name: Janakpur Road
+  - :name: Jehanabad
+  - :name: Jhajha
+  - :name: Jhanjharpur
+  - :name: Jogbani
+  - :name: Kanti
+  - :name: Kasba
+  - :name: Kataiya
+  - :name: Katihar
+  - :name: Khagaria
+  - :name: Khagaul
+  - :name: Kharagpur
+  - :name: Khusrupur
+  - :name: Kishanganj
+  - :name: Koath
+  - :name: Koilwar
+  - :name: Lakhisarai
+  - :name: Lalganj
+  - :name: Lauthaha
+  - :name: Madhepura
+  - :name: Madhubani
+  - :name: Maharajganj
+  - :name: Mahnar Bazar
+  - :name: Mairwa
+  - :name: Makhdumpur
+  - :name: Maner
+  - :name: Manihari
+  - :name: Marhaura
+  - :name: Masaurhi
+  - :name: Mirganj
+  - :name: Mohiuddinagar
+  - :name: Mokameh
+  - :name: Motihari
+  - :name: Motipur
+  - :name: Munger
+  - :name: Murliganj
+  - :name: Muzaffarpur
+  - :name: Nabinagar
+  - :name: Narkatiaganj
+  - :name: Naugachhia
+  - :name: Nawada
+  - :name: Nirmali
+  - :name: Nokha
+  - :name: Paharpur
+  - :name: Patna
+  - :name: Phulwari Sharif
+  - :name: Piro
+  - :name: Purnia
+  - :name: Rafiganj
+  - :name: Raghunathpur
+  - :name: Rajgir
+  - :name: Ramnagar
+  - :name: Raxaul Bazar
+  - :name: Revelganj
+  - :name: Rosera
+  - :name: Saharsa
+  - :name: Samastipur
+  - :name: Sasaram
+  - :name: Shahpur
+  - :name: Sheikhpura
+  - :name: Sheohar
+  - :name: Sherghati
+  - :name: Silao
+  - :name: Sitamarhi
+  - :name: Siwan
+  - :name: Sonepur
+  - :name: Sugauli
+  - :name: Sultanganj
+  - :name: Supaul
+  - :name: Tekari
+  - :name: Thakurganj
+  - :name: Warisaliganj
+- :name: Haryana
+  :cities:
+  - :name: Ambala
+  - :name: Ambala Cantt.
+  - :name: Ambala Sadar
+  - :name: Asan  Khurd
+  - :name: Assandh
+  - :name: Ateli
+  - :name: Babiyal
+  - :name: Bahadurgarh
+  - :name: Barwala
+  - :name: Bawal
+  - :name: Bawani Khera
+  - :name: Beri
+  - :name: Bhiwani
+  - :name: Bilaspur
+  - :name: Buria
+  - :name: Charkhi Dadri
+  - :name: Cheeka
+  - :name: Chhachhrauli
+  - :name: Dharuhera
+  - :name: Dundahera
+  - :name: Ellenabad
+  - :name: Farakhpur
+  - :name: Faridabad
+  - :name: Farrukhnagar
+  - :name: Fatehabad
+  - :name: Ferozepur Jhirka
+  - :name: Ganaur
+  - :name: Gharaunda
+  - :name: Gohana
+  - :name: Gurgaon
+  - :name: Gurgaon Rural
+  - :name: Haileymandi
+  - :name: Hansi
+  - :name: Hassanpur
+  - :name: Hathin
+  - :name: Hisar
+  - :name: Hodal
+  - :name: Indri
+  - :name: Jagadhri
+  - :name: Jakhal Mandi
+  - :name: Jhajjar
+  - :name: Jind
+  - :name: Julana
+  - :name: Kaithal
+  - :name: Kalan Wali
+  - :name: Kalanaur
+  - :name: Kalayat
+  - :name: Kalka
+  - :name: Kanina
+  - :name: Kansepur
+  - :name: Kardhan
+  - :name: Karnal
+  - :name: Kharkhoda
+  - :name: Ladrawan
+  - :name: Ladwa
+  - :name: Loharu
+  - :name: Maham
+  - :name: Mahendragarh
+  - :name: Mandi Dabwali
+  - :name: Mustafabad
+  - :name: Nagai Chaudhry
+  - :name: Naraingarh
+  - :name: Narnaul
+  - :name: Narnaund
+  - :name: Narwana
+  - :name: Nilokheri
+  - :name: Nuh
+  - :name: Palwal
+  - :name: Panchkula Urban Estate
+  - :name: Panipat
+  - :name: Panipat Taraf Ansar
+  - :name: Panipat Taraf Rajputan
+  - :name: Panipt Taraf Makhdum Zadgan
+  - :name: Pataudi
+  - :name: Pehowa
+  - :name: Pinjore
+  - :name: Punahana
+  - :name: Pundri
+  - :name: Radaur
+  - :name: Raipur Rani
+  - :name: Rania
+  - :name: Ratia
+  - :name: Rewari
+  - :name: Rewari (Rural)
+  - :name: Rohtak
+  - :name: Sadaura
+  - :name: Safidon
+  - :name: Samalkha
+  - :name: Sankhol
+  - :name: Sasauli
+  - :name: Shahbad
+  - :name: Sirsa
+  - :name: Siwani
+  - :name: Sohna
+  - :name: Sonipat
+  - :name: Sukhrali
+  - :name: Taoru
+  - :name: Taraori
+  - :name: Thanesar
+  - :name: Tilpat
+  - :name: Tohana
+  - :name: Tosham
+  - :name: Uchana
+  - :name: Uklanamandi
+  - :name: Uncha Siwana
+  - :name: Yamunanagar
+- :name: Lakshadweep
+  :cities:
+  - :name: Amini
+  - :name: Kavaratti
+  - :name: Minicoy
+- :name: Dadra & Nagar Haveli
+  :cities:
+  - :name: Amli
+  - :name: Silvassa
+- :name: Odisha
+  :cities:
+  - :name: Anandapur
+  - :name: Anugul
+  - :name: Asika
+  - :name: Athagad
+  - :name: Athmallik
+  - :name: Balagoda (Bolani)
+  - :name: Balangir
+  - :name: Baleshwar
+  - :name: Balimela
+  - :name: Balugaon
+  - :name: Banapur
+  - :name: Bangura
+  - :name: Banki
+  - :name: Barapali
+  - :name: Barbil
+  - :name: Bargarh
+  - :name: Baripada
+  - :name: Basudebpur
+  - :name: Baudhgarh
+  - :name: Belagachhia
+  - :name: Bellaguntha
+  - :name: Belpahar
+  - :name: Bhadrak
+  - :name: Bhanjanagar
+  - :name: Bhawanipatna
+  - :name: Bhuban
+  - :name: Bhubaneshwar
+  - :name: Binika
+  - :name: Biramitrapur
+  - :name: Bishama Katek
+  - :name: Brahmapur
+  - :name: Brajarajnagar
+  - :name: Buguda
+  - :name: Burla
+  - :name: Byasanagar
+  - :name: Champua
+  - :name: Chandapur
+  - :name: Chandili
+  - :name: Charibatia
+  - :name: Chhatrapur
+  - :name: Chikiti
+  - :name: Choudwar
+  - :name: Cuttack
+  - :name: Dadhapatna
+  - :name: Daitari
+  - :name: Damanjodi
+  - :name: Debagarh
+  - :name: Deracolliery Township
+  - :name: Dhamanagar
+  - :name: Dhenkanal
+  - :name: Digapahandi
+  - :name: Dungamal
+  - :name: Fertilzer Corporation Of Indiatownship
+  - :name: G. Udayagiri
+  - :name: Ganjam
+  - :name: Ghantapada
+  - :name: Gopalpur
+  - :name: Gudari
+  - :name: Gunupur
+  - :name: Hatibandha
+  - :name: Hinjilicut
+  - :name: Hirakud
+  - :name: Jagatsinghapur
+  - :name: Jajapur
+  - :name: Jalda
+  - :name: Jaleswar
+  - :name: Jatani
+  - :name: Jeypur
+  - :name: Jharsuguda
+  - :name: Jhumpura
+  - :name: Joda
+  - :name: Junagarh
+  - :name: Kamakshyanagar
+  - :name: Kantabanji
+  - :name: Kantilo
+  - :name: Karanjia
+  - :name: Kashinagara
+  - :name: Kavisuryanagar
+  - :name: Kendrapara
+  - :name: Kendujhar
+  - :name: Kesinga
+  - :name: Khaliapali
+  - :name: Khalikote
+  - :name: Khandapada
+  - :name: Khariar
+  - :name: Khariar Road
+  - :name: Khatiguda
+  - :name: Khordha
+  - :name: Kochinda
+  - :name: Kodala
+  - :name: Konark
+  - :name: Koraput
+  - :name: Kotpad
+  - :name: Lattikata
+  - :name: Makundapur
+  - :name: Malkangiri
+  - :name: Mukhiguda
+  - :name: Nabarangapur
+  - :name: Nalco
+  - :name: Nayagarh
+  - :name: Nilagiri
+  - :name: Nimapada
+  - :name: Nuapatna
+  - :name: Ocl Industrialship
+  - :name: Padmapur
+  - :name: Panposh
+  - :name: Paradip
+  - :name: Parlakhemundi
+  - :name: Patnagarh
+  - :name: Pattamundai
+  - :name: Phulabani
+  - :name: Pipili
+  - :name: Polasara
+  - :name: Pratapsasan
+  - :name: Puri
+  - :name: Purusottampur
+  - :name: Rairangpur
+  - :name: Rajagangapur
+  - :name: Rambha
+  - :name: Raurkela
+  - :name: Raurkela Industrialship
+  - :name: Rayagada
+  - :name: Redhakhol
+  - :name: Remuna
+  - :name: Rengali Dam Projectship
+  - :name: Sambalpur
+  - :name: Sonapur
+  - :name: Soro
+  - :name: Sunabeda
+  - :name: Sundargarh
+  - :name: Surada
+  - :name: Talcher
+  - :name: Talcher Thermal Power Station Township
+  - :name: Tarbha
+  - :name: Tensa
+  - :name: Titlagarh
+  - :name: Udala
+  - :name: Umarkote
+- :name: Manipur
+  :cities:
+  - :name: Andro
+  - :name: Bishnupur
+  - :name: Heriok
+  - :name: Imphal
+  - :name: Jiribam
+  - :name: Kakching
+  - :name: Kakching Khunou
+  - :name: Khongman
+  - :name: Kumbi
+  - :name: Kwakta
+  - :name: Lamai
+  - :name: Lamjaotongba
+  - :name: Lamshang
+  - :name: Lilong (Imphal West)
+  - :name: Lilong (Thoubal)
+  - :name: Mayang Imphal
+  - :name: Moirang
+  - :name: Moreh
+  - :name: Nambol
+  - :name: Naoriya Pakhanglakpa
+  - :name: Ningthoukhong
+  - :name: Oinam
+  - :name: Porompat
+  - :name: Samurou
+  - :name: Sekmai Bazar
+  - :name: Sikhong Sekmai
+  - :name: Sugnu
+  - :name: Thongkhong Laxmi Bazar
+  - :name: Thoubal
+  - :name: Torban (Khetri Leikai)
+  - :name: Wangjing
+  - :name: Wangoi
+  - :name: Yairipok
+- :name: Himachal Pradesh
+  :cities:
+  - :name: Arki
+  - :name: Baddi
+  - :name: Bakloh
+  - :name: Banjar
+  - :name: Bhota
+  - :name: Bhuntar
+  - :name: Bilaspur
+  - :name: Chamba
+  - :name: Chaupal
+  - :name: Chuari Khas
+  - :name: Dagshai
+  - :name: Dalhousie
+  - :name: Daulatpur
+  - :name: Dera Gopipur
+  - :name: Dharmsala
+  - :name: Gagret
+  - :name: Ghumarwin
+  - :name: Hamirpur
+  - :name: Jawalamukhi
+  - :name: Jogindarnagar
+  - :name: Jubbal
+  - :name: Jutogh
+  - :name: Kangra
+  - :name: Kasauli
+  - :name: Kotkhai
+  - :name: Kullu
+  - :name: Manali
+  - :name: Mandi
+  - :name: Mant Khas
+  - :name: Mehatpur Basdehra
+  - :name: Nadaun
+  - :name: Nagrota Bagwan
+  - :name: Nahan
+  - :name: Naina Devi
+  - :name: Nalagarh
+  - :name: Narkanda
+  - :name: Nurpur
+  - :name: Palampur
+  - :name: Paonta Sahib
+  - :name: Parwanoo
+  - :name: Rajgarh
+  - :name: Rampur
+  - :name: Rawalsar
+  - :name: Rohru
+  - :name: Sabathu
+  - :name: Santokhgarh
+  - :name: Sarkaghat
+  - :name: Seoni
+  - :name: Shimla
+  - :name: Solan
+  - :name: Sundarnagar
+  - :name: Talai
+  - :name: Theog
+  - :name: Tira Sujanpur
+  - :name: Una
+  - :name: Yol
+- :name: Meghalaya
+  :cities:
+  - :name: Baghmara
+  - :name: Cherapunjee
+  - :name: Jawai
+  - :name: Madanrting
+  - :name: Mairang
+  - :name: Mawlai
+  - :name: Nongmynsong
+  - :name: Nongpoh
+  - :name: Nongstoin
+  - :name: Nongthymmai
+  - :name: Pynthorumkhrah
+  - :name: Resubelpara
+  - :name: Shillong
+  - :name: Shillong Cantt.
+  - :name: Tura
+  - :name: Williamnagar
+- :name: Andaman & Nicobar Islands
+  :cities:
+  - :name: Bombooflat
+  - :name: Garacharma
+  - :name: Port Blair
+- :name: Chandigarh
+  :cities:
+  - :name: Chandigarh
+- :name: Nagaland
+  :cities:
+  - :name: Chumukedima
+  - :name: Dimapur
+  - :name: Kohima
+  - :name: Mokokchung
+  - :name: Mon
+  - :name: Phek
+  - :name: Tuensang
+  - :name: Wokha
+  - :name: Zunheboto
+- :name: Daman & Diu
+  :cities:
+  - :name: Daman
+  - :name: Diu
+- :name: Sikkim
+  :cities:
+  - :name: Gangtok
+  - :name: Gyalshing
+  - :name: Jorethang
+  - :name: Mangan
+  - :name: Namchi
+  - :name: Nayabazar
+  - :name: Rangpo
+  - :name: Singtam
+  - :name: Upper Tadong
+- :name: Pondicherry
+  :cities:
+  - :name: Karaikal
+  - :name: Kurumbapet
+  - :name: Mahe
+  - :name: Ozhukarai
+  - :name: Pondicherry
+  - :name: Yanam
+- :name: Uttarakhand
+  :cities:
+  - :name: Dehradun

@@ -1,0 +1,33 @@
+FROM ruby:2.6
+# # RUN apt-get -y install software-properties-common
+# # RUN apt-get-add-repository ppa:brightbox/ruby-ng
+# RUN apt update
+# RUN apt-get install -y ruby2.6
+# RUN apt-get install -y ruby2.6-dev
+# RUN apt-add-repository ppa:brightbox/ruby-ng
+# RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E1DD270288B4E6030699E45FA1715D88E1DF1F24
+# RUN su -c "echo 'deb http://ppa.launchpad.net/git-core/ppa/ubuntu trusty main' > /etc/apt/sources.list.d/git.list"
+
+# RUN apt update
+# RUN apt upgrade
+# RUN apt install git
+# RUN apt install -y git curl libssl-dev libreadline-dev zlib1g-dev autoconf bison build-essential libyaml-dev libreadline-dev libncurses5-dev libffi-dev libgdbm-dev
+# RUN git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+# RUN echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+# RUN rbenv install 2.6
+RUN mkdir -p /myapp
+# COPY . /myapp
+WORKDIR /myapp
+ADD Gemfile /myapp/Gemfile
+ADD Gemfile.lock /myapp/Gemfile.lock
+RUN apt-get install -y zlib1g-dev
+RUN apt-get install -y libsqlite3-dev
+RUN apt-get install -y libpq-dev
+# RUN apt install -y g++
+# RUN apt-get -f install
+RUN gem install bundler
+# USER root
+RUN bundle install
+ADD . /myapp
+EXPOSE 9294
+ENTRYPOINT ["tail", "-f", "/dev/null"]

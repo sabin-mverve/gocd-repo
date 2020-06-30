@@ -1,0 +1,36 @@
+version: '3' 
+volumes: 
+  db-data:
+    external: false
+services:
+  app:
+    env_file: .env
+    build: .
+    # command: >
+    #   bash -c "rm -f myapp/pids/. && rake db:reset"
+    ports:
+      - 9294:9294 #80:9294
+      - 1841:1841 #80:9294
+    depends_on:
+      - postgres
+    links:
+      - postgres:postgres
+  postgres:
+    image: postgres
+    # restart: always
+    container_name: postgres-container
+    ports:
+      - 5432:5432
+    # network_mode: host
+    environment:
+      - LC_ALL=C.UTF-8
+      - POSTGRES_DB=lnddb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=123456
+      - POSTGRES_PORT=5432
+      # - POSTGRES_HOST=localhost
+    # command: >
+    #   bash -c "pg_createcluster 12 main
+    #   && /etc/init.d/postgresql start"
+    volumes: 
+      - db-data:/usr/local/pgsql/data
